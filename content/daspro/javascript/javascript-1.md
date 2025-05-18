@@ -14,7 +14,7 @@ JavaScript adalah salah satu bahasa pemrograman paling populer di dunia, terutam
 > JavaScript ≠ Java  
 > Meskipun namanya mirip, JavaScript dan Java adalah dua bahasa yang **berbeda**.
 
-`Teknologi yang dikembangkan menggunakan bahasa pemrograman Javascript adalah NodeJS, Symfony dan TypeScript`
+`Teknologi yang dikembangkan menggunakan bahasa pemrograman Javascript adalah NodeJS, Symfony, TypeScript dan masih banyak lagi.`
 
 ## Sejarah Singkat
 

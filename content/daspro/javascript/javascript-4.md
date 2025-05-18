@@ -73,6 +73,16 @@ let x = 5
 x += 5 // x = 10 atau sama saja dengan x = x + 5
 ```
 
+> [!info] Increment & Decrement
+>
+> Increment (`++`) digunakan untuk menambahkan 1 ke nilai variabel, sedangkan decrement (`--`) digunakan untuk mengurangi 1 dari nilai variabel. Cara ini akan sering digunakan untuk [Looping](javascript-7.md). Contoh penggunaannya adalah sebagai berikut:
+>
+> ```js
+> let x = 5
+> x++
+> console.log(x) // 6
+> ```
+
 ### Operator Ternary
 
 Operator ini digunakan untuk menentukan nilai berdasarkan kondisi, sama seperti [if-else](javascript-5.md) tetapi hanya dipisahkan oleh tanda tanya (?) sebagai operator.
@@ -109,9 +119,9 @@ console.log(sekarang.getMonth()) // Bulan (0 = Januari)
 ### 3. String — Objek untuk manipulasi teks
 
 ```javascript
-let nama = "Budi"
+let nama = "Tono"
 console.log(nama.length) // 4
-console.log(nama.toUpperCase()) // "BUDI"
+console.log(nama.toUpperCase()) // "TONO"
 console.log(nama.includes("i")) // true
 ```
 

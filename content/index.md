@@ -7,8 +7,29 @@ date: 2025-05-17
 
 Beberapa materi yang telah di pelajari di kelas 10 jurusan SIJA antara lain:
 
-- [Jaringan Komputer](/Dasar-Pemrograman)
-- [Sistem Komputer]()
-- [Dasar Pemrograman]()
+- [DDK 1 - Jaringan Komputer](/jarkom)
+  - _Dalam proses_
+- [DDK 2 - Sistem Komputer](/siskom)
+  - _Dalam proses_
+- [DDK 3 - Dasar Pemrograman](/daspro)
+  - Javascript
+    1. [Mengenal Javascript](/daspro/js/javascript-1.md)
+    2. [Menulis Kode Javascript](/daspro/js/javascript-2.md)
+    3. [Variabel dan Tipe Data](/daspro/js/javascript-3.md)
+    4. [Operator dan Build-in Obj](/daspro/js/javascript-4.md)
+    5. [Percabangan](/daspro/js/javascript-5.md)
+    6. [Fungsi](/daspro/js/javascript-6.md)
+    7. [Perulangan](/daspro/js/javascript-7.md)
+  - HTML & CSS
+    - HTML
+      1. [Fundamental HTML](/daspro/html-css/html-1.md)
+      2. [Video & Audio HTML](/daspro/html-css/html-2.md)
+      3. [Membuat Tabel](/daspro/html-css/html-3.md)
+      4. [Membuat Form](/daspro/html-css/html-4.md)
+    - CSS
+      1. [Mengenal CSS](/daspro/html-css/css-1.md)
+      2. [Typography & Text Formatting](/daspro/html-css/css-2.md)
+      3. [Basic Properti CSS](/daspro/htmll-css/css-3.md)
+      4. [CSS Flexbox](/daspro/html-css/css-4.md)
 
-Website ini dibuat oleh [Bintang](https://github.com/byntangxyz), [Isa Silva Putra](https://github.com/Cmose-source) dan teman-teman yang lain. Kami menggunakan [Quartz v4.5](https://quartz.jzhao.xyz) sebagai framework Static Site Generator (SSG).
+Website ini dibuat untuk bahan belajar dan dibuat dengan menggunakan [Quartz v4.5](https://quartz.jzhao.xyz) sebagai framework Static Site Generator (SSG).

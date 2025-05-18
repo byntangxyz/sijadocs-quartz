@@ -33,7 +33,7 @@ if (umur >= 17) {
 }
 ```
 
-## 3. `if...else if...else` atau Nested
+## 3. `if...else if...else`
 
 Digunakan untuk mengecek beberapa kondisi berbeda.
 

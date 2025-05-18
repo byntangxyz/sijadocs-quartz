@@ -107,4 +107,4 @@ console.log(hasilPembagian) // Output: 4
 
 > [!tip] Berikutnya!
 >
-> [Array](javascript-7.md)
+> [Perulangan](javascript-7.md)

@@ -100,10 +100,10 @@ const siswa = {
 ```javascript
 const angka = [1, 2, 3, 4, 5]
 const SiswaSija = [
-  ["Fino", 17],
-  ["Miko", 17],
-  ["Dinda", 16],
-  ["Gaza", 12],
+  ["Fino", 7],
+  ["Miko", 34],
+  ["Dinda", 1],
+  ["Gaza", 28],
 ]
 ```
 
