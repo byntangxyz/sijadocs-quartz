@@ -13,13 +13,13 @@ Beberapa materi yang telah di pelajari di kelas 10 jurusan SIJA antara lain:
   - _Dalam proses_
 - [DDK 3 - Dasar Pemrograman](/daspro)
   - Javascript
-    1. [Mengenal Javascript](/daspro/js/javascript-1.md)
-    2. [Menulis Kode Javascript](/daspro/js/javascript-2.md)
-    3. [Variabel dan Tipe Data](/daspro/js/javascript-3.md)
-    4. [Operator dan Build-in Obj](/daspro/js/javascript-4.md)
-    5. [Percabangan](/daspro/js/javascript-5.md)
-    6. [Fungsi](/daspro/js/javascript-6.md)
-    7. [Perulangan](/daspro/js/javascript-7.md)
+    1. [Mengenal Javascript](/daspro/javascript/javascript-1.md)
+    2. [Menulis Kode Javascript](/daspro/javascript/javascript-2.md)
+    3. [Variabel dan Tipe Data](/daspro/javascript/javascript-3.md)
+    4. [Operator dan Build-in Obj](/daspro/javascript/javascript-4.md)
+    5. [Percabangan](/daspro/javascript/javascript-5.md)
+    6. [Fungsi](/daspro/javascript/javascript-6.md)
+    7. [Perulangan](/daspro/javascript/javascript-7.md)
   - HTML & CSS
     - HTML
       1. [Fundamental HTML](/daspro/html-css/html-1.md)
