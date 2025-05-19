@@ -29,7 +29,7 @@ Beberapa materi yang telah di pelajari di kelas 10 jurusan SIJA antara lain:
     - CSS
       1. [Mengenal CSS](/daspro/html-css/css-1.md)
       2. [Typography & Text Formatting](/daspro/html-css/css-2.md)
-      3. [Basic Properti CSS](/daspro/htmll-css/css-3.md)
+      3. [Basic Properti CSS](/daspro/html-css/css-3.md)
       4. [CSS Flexbox](/daspro/html-css/css-4.md)
 
 Website ini dibuat untuk bahan belajar dan dibuat dengan menggunakan [Quartz v4.5](https://quartz.jzhao.xyz) sebagai framework Static Site Generator (SSG).

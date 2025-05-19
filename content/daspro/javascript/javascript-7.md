@@ -82,3 +82,7 @@ for (let key in siswa) {
   console.log(key + ": " + siswa[key])
 }
 ```
+
+> [!tip] Materi Telah Selesai!
+>
+> Kembali ke Home [](/)
