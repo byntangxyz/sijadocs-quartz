@@ -109,3 +109,7 @@ Jaringan yang mencakup area yang lebih luas seperti antar negara dan benua.
     - Fleksibel sesuai kebutuhan jaringan	
     - Instalasi dan konfigurasi lebih kompleks
     ![Hybrid](hybrid.png)
+>
+>[!tip] Materi Berikutnya!
+>
+>Lanjut ke [Network Material](pengenalan-3.md)
