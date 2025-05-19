@@ -110,4 +110,4 @@ Komentar tidak akan ditampilkan atau dieksekusi di browser:
 
 > [!tip] Materi Berikutnya!
 >
-> Lanjutke [Membuat Video dan Audio di HTML](html-2.md)
+> Lanjut ke [Membuat Video dan Audio di HTML](html-2.md)
