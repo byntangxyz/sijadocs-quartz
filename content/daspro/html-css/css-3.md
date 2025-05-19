@@ -7,7 +7,7 @@ date: 2025-05-18
 
 Setelah memahami properti CSS yang berhubungan dengan [teks dan font](css-2.md), kini saatnya mempelajari properti dasar CSS lainnya yang sering digunakan untuk mengatur layout, spasi, ukuran, warna, dan border dari elemen HTML. Properti-properti ini merupakan fondasi penting dalam membuat tampilan web yang rapi dan enak dilihat.
 
-1. `width dan height`
+1. `width` dan `height`
 
 Digunakan untuk menentukan lebar dan tinggi dari elemen.
 
@@ -44,8 +44,8 @@ Digunakan untuk memberi latar belakang pada elemen. Lihat preferensi properti di
 
 3. `margin` dan `padding`
 
-margin: jarak luar antar elemen
-padding: jarak dalam antara isi dan batas elemen
+- margin: jarak luar antar elemen
+- padding: jarak dalam antara isi dan batas elemen
 
 ![Box Model](https://miro.medium.com/v2/resize:fit:1400/1*3STqKwTGNXBoZgbXbp3aDA.png)
 _Source: Medium_
