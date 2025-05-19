@@ -102,4 +102,4 @@ Contoh dengan atribut border:
 
 > [!tip] Materi Berikutnya!
 >
-> Lanjutke [Membuat Form](html-4.md)
+> Lanjut ke [Membuat Form](html-4.md)

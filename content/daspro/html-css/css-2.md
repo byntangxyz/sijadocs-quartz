@@ -201,4 +201,4 @@ font: font-style font-weight font-size/line-height font-family;
 
 > [!tip] Materi CSS Berikutnya!
 >
-> Lanjutke [Basic Properti CSS](css-3.md)
+> Lanjut ke [Basic Properti CSS](css-3.md)

@@ -82,4 +82,4 @@ Agar kompatibel di semua browser, disarankan menyediakan lebih dari satu format:
 
 > [!tip] Materi Berikutnya!
 >
-> Lanjutke [Membuat Tabel](html-3.md)
+> Lanjut ke [Membuat Tabel](html-3.md)

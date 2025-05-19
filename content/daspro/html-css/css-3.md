@@ -225,4 +225,4 @@ Nilai umum: `pointer`, `default`, `text`, `move`, `not-allowed`, `grab`, dll.
 
 > [!tip] Materi CSS Berikutnya!
 >
-> Lanjutke [CSS Flexbox](css-4.md)
+> Lanjut ke [CSS Flexbox](css-4.md)
