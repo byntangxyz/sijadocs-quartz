@@ -50,24 +50,3 @@ IP Address berfungsi seperti alamat rumah: jika ingin mengirim data (seperti pak
     Bisa berubah setiap kali perangkat terhubung ke jaringan
 
     Umumnya digunakan untuk perangkat pengguna umum seperti laptop dan smartphone
-<!-- > 
->Mau nlebih tau tentang DHCP?
->
-<iframe width="750" height="350" 
-  src="https://www.youtube.com/embed/e6-TaH5bkjo"
-  title="DHCP" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe> -->
-<!-- >
-<iframe width="750" height="350" 
-  src="https://www.youtube.com/embed/l5vLxYrZAgA?start=239" 
-  title="IP Addressing" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
-
->
->Nah supaya kalian lebih paham bisa nonton video dari Mas NanangMRK -->
