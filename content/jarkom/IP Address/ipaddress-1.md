@@ -50,7 +50,7 @@ IP Address berfungsi seperti alamat rumah: jika ingin mengirim data (seperti pak
     Bisa berubah setiap kali perangkat terhubung ke jaringan
 
     Umumnya digunakan untuk perangkat pengguna umum seperti laptop dan smartphone
-> 
+<!-- > 
 >Mau nlebih tau tentang DHCP?
 >
 <iframe width="750" height="350" 
@@ -59,7 +59,7 @@ IP Address berfungsi seperti alamat rumah: jika ingin mengirim data (seperti pak
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
   allowfullscreen>
-</iframe>
+</iframe> -->
 <!-- >
 <iframe width="750" height="350" 
   src="https://www.youtube.com/embed/l5vLxYrZAgA?start=239" 
