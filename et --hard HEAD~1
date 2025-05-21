@@ -1,0 +1,1547 @@
+[33m51e70dd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mjarkom[m[33m)[m IP-Address-1
+[33mdf63b1e[m IPAdd-1
+[33mdd418af[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m Merge pull request #9 from byntangxyz/daspro
+[33m1c7d586[m menambahkan siskom
+[33me4f2504[m Merge pull request #8 from Cmose-source/jarkom
+[33m7a0423c[m OSI-Layer
+[33mac12729[m Merge pull request #7 from Cmose-source/jarkom
+[33mcf83b42[m Bab-1.3
+[33m0d060aa[m Merge pull request #5 from byntangxyz/jarkom
+[33ma85be26[m Bab-1.2
+[33m2f38d34[m Merge pull request #1 from byntangxyz/dependabot/npm_and_yarn/production-dependencies-6ebf589a47
+[33m761aec0[m Merge pull request #4 from byntangxyz/jarkom
+[33mdd9ffa2[m Bab-1.1
+[33ma629886[m Merge pull request #3 from byntangxyz/daspro
+[33md0e361f[m[33m ([m[1;31morigin/daspro[m[33m)[m perbaikan bug
+[33m5d0db35[m Merge pull request #2 from byntangxyz/daspro
+[33m65d4bcb[m HTML CSS part2 done
+[33m2e8a923[m memperbaiki bug 1.1
+[33m038ffa1[m Membuat artikel html & css part 1
+[33m70a823e[m[33m ([m[1;31morigin/dependabot/npm_and_yarn/production-dependencies-6ebf589a47[m[33m)[m chore(deps): bump the production-dependencies group with 7 updates
+[33m2efc596[m initial commit
+[33me98d97a[m[33m ([m[1;32mv4[m[33m)[m feat(i18n): readermode translations and icon (#1961)
+[33mc33f96e[m chore(deps): bump sigstore/cosign-installer in the ci-dependencies group (#1953)
+[33m0b348a0[m chore(deps): bump the production-dependencies group with 7 updates (#1964)
+[33m59d4b4e[m fix(analytics): Umami tracking pageviews properly
+[33madf4420[m fix(graph): provide proper workaround for pixijs webgpu issue #1899 (#1949)
+[33mdc2c4dc[m docs: add fix for 'remote end hung up unexpectedly' error during initial sync (#1939)
+[33m6ba9c7c[m doc(favicon): add documentation of favicon plugin (#1948)
+[33m8d5b13e[m fix(fonts): Fixed page title fonts not downloadable to local (#1898)
+[33m4d07ac9[m chore(deps-dev): bump the production-dependencies group with 2 updates (#1952)
+[33m32d3fc0[m chore(ci): fix proj name
+[33m00e860d[m ci: fix fork preview
+[33m2acdec3[m fix(explorer): Prevent html from being scrollable when mobile explorer is open (#1895)
+[33m9e58857[m feat(favicon): add plugin to expose favicon from icon.png (#1942)
+[33m4bd714b[m fix(callout): Grid-based callout collapsible animation (#1944)
+[33m78e13bc[m chore: add ci to preview all prs (#1947)
+[33m7d49dff[m fix: prefer webgl for devices with webgpu and no float32-blendable feature flag #1899 (#1933)
+[33mcdebd05[m fix(wikilinks): dont default empty alias
+[33m2a9290b[m fix(transclude): blockref detection
+[33m771c05f[m fix: dynamically detect current branch for quartz sync push (#1930)
+[33m6dd772b[m fix(popover): properly clear popover on racing fetch
+[33mc238dd1[m chore(deps): bump the production-dependencies group with 2 updates (#1919)
+[33mb34d521[m feat: reader mode
+[33mbfd7234[m fix(popover): clear popovers more aggressively, use href as id
+[33m091cc1b[m fix(search): properly show mobile layout
+[33me9b60c7[m fix(popover): popover id calculation + scroll consistency
+[33mb1a920e[m fix: add proper popover hint to tag content page
+[33m61770d3[m chore(deps): bump the production-dependencies group with 6 updates (#1913)
+[33m9db66d5[m fix(popover): round coords remove blurred popovers (#1911)
+[33mee8c1dc[m chore(css): style tweaks for overflow
+[33mbb24cd1[m fix(css): styles issues with popover, overflow, and scroll overflow (#1907)
+[33md61fb26[m fix(popover): automatically position anchored links properly (#1897)
+[33m685c06c[m fix(RecentNotes): Prevent folder pages from always appearing first (closes #1901) (#1904)
+[33m3ae89a1[m fix(search): make closest sidebar z-index adjustment optional (closes #1905)
+[33m4d6e7cc[m chore(docs): fix explorer docs on filtering by title
+[33mf334e78[m fix(style): MathJax in callouts spacing (#1892)
+[33mc5304b3[m chore(deps): bump the production-dependencies group with 5 updates (#1894)
+[33m99f3539[m chore(deps-dev): bump @types/node in the production-dependencies group (#1869)
+[33mec4700d[m Hey folder icon don't shrink please (#1872)
+[33md6f69e8[m fix: remove redundant log and display in parent of overflow
+[33m9ee6fe1[m fix: reproducible overflowlist (closes #1885)
+[33ma21f588[m fix(toc): element can't fully collapse
+[33m2119025[m fix(toc): Fixed headers in second ToC element not highlight-able
+[33mf70e562[m fix: overflow list bottom gradient on toc (closes #1888)
+[33m9ff6c7a[m fix(style): MathJax non-inline formulae center (#1886)
+[33m7ca9dd9[m fix: dont use cdn for twemoji, bake emojis as b64
+[33mb397dae[m Updating breadcrumbs docs on ConditionalRender (#1871)
+[33m23b691f[m fix: coerce fullslug
+[33mc18e6cd[m fix(alias): resolve relative if alias is relative
+[33mfe2e16d[m fix: disallow user-select in popover
+[33m722b432[m docs: clarify transclusions
+[33m9d8d238[m chore(deps): bump the production-dependencies group across 1 directory with 4 updates (#1867)
+[33m141f053[m chore: format path.test.ts
+[33m3027ece[m chore(test): add tests for resolveRelative
+[33maaa5c8e[m feat: conditional render component
+[33m4e74d11[m fix: cleanup a href link construction, global shared trie, breadcrumbs use trie
+[33m457b77d[m fix(frontmatter): prevent slug duplication through frontmatter (#1860)
+[33m3ce6aa4[m fix(ogImage): update socialImage path to include base URL if defined (#1858)
+[33m9316ddf[m fix(analytics): fix the load of the analytics scripts (#1865)
+[33mfbca56f[m fix(lastmod) Change defaultDateType to "modified" (#1862)
+[33meccad3d[m fix(lastmod): fallback to ctx.arg.directory instead of empty string
+[33mbcde2ab[m fix(transformer): find last modified date form commit on submodule (#1831)
+[33m25979ab[m feat(fonts): allow PageTitle to have its own font subset (#1848)
+[33m9818e1a[m chore: remove unused import
+[33m771110a[m fix(git): deprioritize git, dont fail on non-git content folders
+[33mdc6a9f3[m chore(deps): bump rlespinasse/github-slug-action (#1851)
+[33mc0b73dd[m fix: maybeDates will change children dates (#1843)
+[33me865440[m fix: parse parallelization chunk arg, inline b64 for og image
+[33ma737207[m[33m ([m[1;33mtag: [m[1;33mv4.5.0[m[33m)[m perf: incremental rebuild (--fastRebuild v2 but default) (#1841)
+[33ma72b1a4[m fix(explorer): vertically center the Explorer toggle under mobile view (#1847)
+[33mfbb4523[m fix(folder): use memoized trie instead of handrolled path solution (closes #1767)
+[33mda1b6b3[m fix(explorer): fix incorrect recursive case for folder rendering
+[33me26658f[m fix(description): calculate description properly when first sentence is longer than max
+[33mb579950[m fix(og): adjust line clamp
+[33m0babbdf[m fix(contentPage): dont emit folders
+[33m1efe2e2[m fix(graph): avoid keeping stroke in gfx
+[33m5928d82[m fix(og): search for font family properly
+[33m696403d[m[33m ([m[1;33mtag: [m[1;33mv4.4.1[m[33m)[m chore: bump version to 4.4.1
+[33m2c30abe[m fix(analytics): always use defer over async to account for document nav event
+[33m80c3196[m feat(og): add reading time to default, improve logging
+[33md9159e0[m feat: make og images an emitter to properly await image generation (#1826)
+[33mc005fe4[m fix(explorer): properly respect folderDefaultState (closes #1827)
+[33m580c1bd[m fix(typography): properly pass Google font options (#1825)
+[33m270a5dc[m fix(explorer): show file name instead of slug if no file data (closes #1822)
+[33mbfa938c[m fix(explorer): allow setting displayName (closes #1824)
+[33me3c50ca[m fix(explorer): dont invert mobile css, properly toggle .collapsed
+[33mca08ec1[m fix(explorer): mobile explorer toggle (#1823)
+[33m2718ab9[m feat: flex component, document higher-order layout components
+[33m87b8037[m fix(mermaid): themechange detector + expand simplification
+[33me59181c[m docs(explorer): update to account for new client side explorer)
+[33mb00198b[m fix: load mermaid as normal now that inline is safely below bundle size
+[33m9e3e711[m fix: mermaid script load order
+[33ma8001e9[m feat: support non-singleton explorer
+[33mdd940a0[m Merge pull request #1820 from jackyzha0/dependabot/npm_and_yarn/production-dependencies-8ce87f9e70
+[33ma71e179[m chore(deps): bump the production-dependencies group with 5 updates
+[33maca0c33[m docs: cleanup showcase (#1818)
+[33mdcaf806[m feat: support non-singleton darkmode
+[33m23df172[m fix(graph): make graph non-singleton, proper cleanup, fix radial
+[33m8d33608[m fix(popovers): clear id to avoid anchor jumps within popover
+[33md618a4e[m fix(explorer): dont rely on data to get slug, compute it in trie
+[33m9c8fec0[m feat: support non-singleton search
+[33m1cd8e7f[m feat: support non-singleton table of contents
+[33m5480269[m perf(explorer): client side explorer (#1810)
+[33ma201105[m fix(docker): instructions + bump deps + bind mount (#1809)
+[33mcc9704b[m chore(deps): bump deps, silence internal punycode deprecation
+[33m6d195fd[m feat: font specification flexibility
+[33m2213424[m docs: make role of getQuartzComponents more clear and also make it optional
+[33m5b13ff2[m feat: support emitters defining external resources, emit link from contentindex directly
+[33m5a39719[m fix(graph): set container as renderGroup to avoid redrawing multiple times (#1736)
+[33m3c8ccde[m chore(og-image): force twemoji for emoji util
+[33mc97fd70[m Added emoji support to Satori when generating OG images (#1593)
+[33m2acfa0f[m fix(og-image): overflow ellipses in title and description
+[33mf6f417a[m fix: engine reqiurements
+[33ma3b6201[m chore(deps): bump the production-dependencies group with 6 updates (#1804)
+[33ma1162b9[m fix(analytics): spa tracking for other providers
+[33mc6f10b4[m feat(rss): configurable RSS feed URL (#1806)
+[33mb050162[m docs(frontmatter): mention dealiasing related fields (#1715)
+[33m6d35050[m fix(goatcounter): properly count SPA page hits (#1718)
+[33m9b47279[m feat(i18n): added nb-NO (Norwegian) (#1795)
+[33m4901472[m chore(deps): bump the production-dependencies group with 8 updates (#1788)
+[33m28fe9b2[m chore(deps): bump sigstore/cosign-installer in the ci-dependencies group (#1789)
+[33m9a0d919[m docs: add Citation plugin & feature pages (#1772)
+[33m598741a[m fix(fonts): update system-ui trick for improve cross-platform compatibility (#1778)
+[33m29c533a[m fix(aliases): wikilink resolution for aliases (#1681)
+[33m1a02642[m feat(i18n): add Finnish translations for i18n (#1782)
+[33m5794405[m feat(cli): absolute path support for -d flag (#1756)
+[33m59d5a0e[m fix(graph): mobile global graph overlay (#1790)
+[33mdd6bd49[m chore(deps): bump the production-dependencies group with 5 updates (#1775)
+[33m04423d4[m chore(deps): bump the production-dependencies group with 6 updates (#1761)
+[33mbe846e6[m chore(deps): bump sigstore/cosign-installer in the ci-dependencies group (#1762)
+[33m32ec711[m chore(deps-dev): bump @types/node in the production-dependencies group (#1751)
+[33m91189df[m feat(explorer): collapsible mobile explorer (#1471)
+[33mfbc4554[m feat(graph): enable radial mode (#1738)
+[33m7be4774[m chore(deps): bump the production-dependencies group across 1 directory with 3 updates (#1744)
+[33m4e4930e[m chore(styles): omit sass deprecation warnings (#1737)
+[33m01943ff[m feat(i18n): Lithuanian (#1733)
+[33m8cf3e30[m feat(i18n): Thai translations (#1722)
+[33m992ac00[m chore(deps): bump the production-dependencies group with 7 updates (#1719)
+[33m09f8670[m chore(deps): bump the production-dependencies group with 4 updates (#1711)
+[33m7e82825[m fix(path): handle lone slash (#1713)
+[33mc90dbac[m chore(build): separate markdown and html handling into two separate stages (#1675)
+[33mb7a945e[m fix(tags): Dont consume a space before content tags (#1706)
+[33mdc3323b[m chore: use Google Fonts API v2 to get fonts for ogp (#1705)
+[33mc98ef7e[m perf(img): lazy load chunks (#1700)
+[33m2e6a675[m perf: reduce bundle size (closes #1607) (#1689)
+[33me3162f7[m chore: joinSegments fix + tests
+[33m9466c14[m fix(path): correct handle URI schemes in joinSegments (#1693)
+[33ma934397[m fix(spa): Fix relative alias redirects (#1688)
+[33mb2752e7[m chore(deps): bump the production-dependencies group with 2 updates (#1696)
+[33md9e36e6[m fix(search): Fix super-inconsistent preview widths in search previews (#1677)
+[33m46adb35[m fix(spa): Normalize empty hrefs (#1695)
+[33me1c9eab[m fix(css): oops fit-content not no width specification for codeblock title
+[33md88e430[m fix(tags): Fix TagContent not sorting the page list when opening a tag (#1692)
+[33mef72f1b[m Fix ObsidianFlavoredMarkdown source link (#1694)
+[33m7d4bed6[m fix(css): allow proper width on code block title (closes #1683)
+[33m99011cb[m fix(spa): handle HTML redirects for aliases (#1680)
+[33mc91cf97[m feat(spa): add loading bar (#1684)
+[33m05e6f05[m feat(backlinks): hide by default when empty (#1674)
+[33m7533d50[m fix(tags): Set consistent titles for tags with description pages (#1671)
+[33m69a0ddf[m fix(tags): Show tag descriptions when hovering (#1670)
+[33ma582505[m chore(deps): bump the production-dependencies group with 7 updates (#1667)
+[33m965f9e1[m chore(frontmatter): dealias created/modified/updated time (#1664)
+[33mff9e60a[m fix(search): restore mobile search view (#1576)
+[33m367bb0e[m chore(deps): bump the production-dependencies group across 1 directory with 14 updates (#1655)
+[33m8141cb1[m fix(cssclasses): apply frontmatter classes uniformly between page types (#1645)
+[33m5ccc2dc[m fix(head): update open-graph width and height protocol per ogp (#1512)
+[33m11c98f5[m feat(i18n): add zh-TW (#1621)
+[33m5a5ef67[m fix(darkmode): check for null (#1531)
+[33m285c0e9[m docs(showcase): 8cat.life (#1617)
+[33madb326c[m fix(style): ensure images have no background color when linked (#1623)
+[33m0c4281e[m fix: use time HTML element for date strings (#1622)
+[33m7ac94e1[m fix(comments): properly check if comments is in frontmatter (#1627)
+[33me1d754e[m Update showcase.md (#1611)
+[33ma727b57[m docs(hosting): add apache config example (#1608)
+[33m1a4cfa6[m chore(deps): bump the production-dependencies group with 3 updates (#1600)
+[33m410001b[m docs: add the pond (#1598)
+[33mf24a147[m fix(comment): negate check (closes #1582) (#1586)
+[33m137d55e[m feat(open-graph): generate OG images + further OG support (#740)
+[33m9188939[m feat(math): typst support(closes #1568) (#1569)
+[33m92676d7[m feat(ofm): support parsing footnotes in table (#1581)
+[33m1893196[m chore(deps): bump rehype-citation from 2.2.1 to 2.2.2 in the production-dependencies group (#1583)
+[33m1ab9c91[m feat(mermaid): improvement navigation (#1575)
+[33m0ad9111[m chore(deps): bump rlespinasse/github-slug-action from 4.4.1 to 5.0.0 in the ci-dependencies group (#1578)
+[33mcbeef55[m chore(deps-dev): bump @types/node from 22.8.7 to 22.9.0 in the production-dependencies group (#1579)
+[33m0f04f12[m ci(dependabot): update GA periodically (#1577)
+[33m31e0b7c[m feat(comments): conditional display via frontmatter (#1566)
+[33ma6b2967[m fix: account for chokidar v4 glob deprecation in source watching
+[33mf84a655[m fix(style): remove flex end to fix tag alignment in content meta
+[33m1d5b6f5[m chore(deps): bump the production-dependencies group with 4 updates (#1565)
+[33m74f8c13[m fix: reset z-index instead of inherited unset (#1528)
+[33m56ba2f4[m feat(build): add support for parsing inline sass (#1558)
+[33m314a88d[m feat(transformer): allow inline CSS styling (#1551)
+[33ma53772b[m feat(i18n): add turkish language (#1554)
+[33m1915a19[m chore(deps): bump the production-dependencies group with 5 updates (#1548)
+[33m1d2dc16[m feat(folder): add intermediate folders pages (#1295)
+[33m3ef2a24[m chore(deps): bump the production-dependencies group across 1 directory with 7 updates (#1540)
+[33md98a3a0[m Merge pull request #1543 from saberzero1/draft-publish-string
+[33mad52d09[m Feat(filters): Support "true" as valid for draft and publish frontmatter values (b3a02909ba74fff08cd3675707d1f4d782a24e98)
+[33m9f701e5[m fix(grid): $desktop variable (#1511)
+[33m67e1bee[m feat(comments): support custom giscus themes (#1526)
+[33m3aa1135[m fix(toc): regression (#1517)
+[33mb3a0290[m fix: make filter checks more strict (closes #1519)
+[33m1dc2083[m fix(cli): use shell on win32 for `update` (#1503) (#1504)
+[33m3d0ba32[m docs: Update Name and URL of Simon's SB and adding DE Vault (#1507)
+[33mc5d97db[m fix(toc): invalid desktop-only styling (#1502)
+[33m0d1f15d[m feat(ofm): Allow for dashes in custom callout label (#1493)
+[33m11c23a1[m chore(deps): bump the production-dependencies group with 9 updates (#1495)
+[33m8a95c86[m chore(citations): passthrough options (#1429)
+[33mfe4b039[m chore(ci): group dependabot upgrade (#1491)
+[33m497d519[m chore(ci): remove signing and vuln (#1484)
+[33m66d7dd8[m fix(ci): run build on tags (#1483)
+[33m313cef6[m infra: build quartz docker image to GHCR (#1192)
+[33maf14ca7[m i18n: add Czech translation (#1477)
+[33me06f681[m chore(deps): bump preact from 10.24.0 to 10.24.1 (#1464)
+[33m62906ee[m chore(deps-dev): bump @types/node from 22.5.5 to 22.7.4 (#1465)
+[33m9cd072b[m chore(deps): bump hast-util-to-string from 3.0.0 to 3.0.1 (#1466)
+[33m319b449[m chore(deps-dev): bump tsx from 4.19.0 to 4.19.1 (#1467)
+[33mb0c079f[m fix(layout): restore footer to the proper position (#1470)
+[33m1b122a1[m chore(deps): bump @floating-ui/dom from 1.6.10 to 1.6.11 (#1463)
+[33mb8c46ba[m feat(analytics): clarity (#1446)
+[33m1416f62[m fix(layout): backlinks grid triage (#1447)
+[33m8889ab6[m fix: provide default pageTitleSuffix (closes #1452)
+[33m5eec1e9[m fix(layout): grid triage with backlinks (#1442)
+[33ma7a0dca[m fix(layout): grid triage and regression (#1440)
+[33m921f45c[m feat: add a config option for a pageTitleSuffix (#1320)
+[33m90c1875[m chore(deps): bump pixi.js from 8.3.4 to 8.4.1 (#1432)
+[33m08e20a7[m chore(deps): bump remark-rehype from 11.1.0 to 11.1.1 (#1435)
+[33m9e32016[m chore(deps): bump rehype-pretty-code from 0.13.2 to 0.14.0 (#1433)
+[33m8a050c0[m chore(deps): bump hast-util-to-html from 9.0.2 to 9.0.3 (#1434)
+[33m0aacd8e[m chore(deps): bump shiki from 1.12.1 to 1.18.0 (#1436)
+[33m7d7e334[m[33m ([m[1;33mtag: [m[1;33mv4.4.0[m[33m)[m feat: responsive design grid (#1354)
+[33m9cefcd0[m Revert "perf: eagerly compute explorer nodes to avoid re-render in memoized value"
+[33m4aaeb76[m update cabin url (#1428)
+[33m743ef71[m chore(deps): bump preact-render-to-string from 6.5.10 to 6.5.11 (#1417)
+[33m9a6e4e2[m chore(deps-dev): bump typescript from 5.5.4 to 5.6.2 (#1418)
+[33m14cb50d[m chore(deps): bump preact from 10.23.2 to 10.24.0 (#1419)
+[33mdad0ae4[m chore(deps-dev): bump @types/node from 22.5.4 to 22.5.5 (#1420)
+[33m9c060f3[m chore(deps): bump vfile from 6.0.2 to 6.0.3 (#1421)
+[33m16a9caa[m perf: eagerly compute explorer nodes to avoid re-render in memoized value
+[33mb1c60b8[m Add alexanderweichart.de to showcase.md (#1378)
+[33m50a78ba[m docs: clarify prod hosting
+[33m6ea359e[m perf: have more than 1ms granularity for rebuild detection
+[33mcd3bb25[m fix: account for subtags in numerical tags (closes #1408) (#1410)
+[33meb9bbd1[m fix: constrain link icon size (#1409)
+[33mc365513[m chore(deps): bump preact-render-to-string from 6.5.9 to 6.5.10 (#1390)
+[33m6215dd5[m docs: fix roam research docs
+[33mc89c76b[m chore(deps-dev): bump tsx from 4.18.0 to 4.19.0 (#1391)
+[33ma145e32[m chore(deps): bump hast-util-to-html from 9.0.1 to 9.0.2 (#1393)
+[33m082cbb7[m chore(deps-dev): bump @types/node from 22.5.0 to 22.5.4 (#1403)
+[33m93b2481[m chore(deps): bump pixi.js from 8.3.3 to 8.3.4 (#1394)
+[33md2414b3[m feat(markdown): Roam Research flavour (#985)
+[33m01fc26d[m fix: Reload graph after a theme change (closes #1380) (#1383)
+[33m84a9be6[m Add Projects & Privacy to showcase.md (#1381)
+[33m6715079[m fix: only apply z-index on left sidebar
+[33md613a3d[m chore(deps): bump unified from 11.0.4 to 11.0.5 (#1373)
+[33m9b75faa[m chore(deps-dev): bump @types/yargs from 17.0.32 to 17.0.33 (#1374)
+[33m5a26b58[m chore(deps-dev): bump @types/node from 22.1.0 to 22.5.0 (#1375)
+[33m4e2aea8[m chore(deps): bump @napi-rs/simple-git from 0.1.17 to 0.1.19 (#1376)
+[33m40f0399[m chore(deps-dev): bump tsx from 4.17.0 to 4.18.0 (#1377)
+[33m3b988ae[m fix: Popover z-index issue on left sidebar (#1230)
+[33mbca7462[m[33m ([m[1;33mtag: [m[1;33mv4.3.1[m[33m)[m perf(graph): canvas implementation (#1328)
+[33m4c9e860[m a11y(darkmode): use a button for the theme toggle (#1335)
+[33m46b63b6[m fix: Link visibility in exampanded TOC while collapseByDefault is true (#1371)
+[33mc4cd84d[m fix: Add a wrapper element to dates in PageList. (#1345)
+[33m2be9c09[m chore(features): remove implemented (#1350)
+[33mf913332[m docs: Update Gitlab CI runner tag to use Gitlab runner (#1365)
+[33m647c125[m docs: added permalink description to supported frontmatter doc (#1369)
+[33m3b74453[m docs: RTL showcase (#1362)
+[33m6b499ed[m chore(deps): bump @floating-ui/dom from 1.6.8 to 1.6.10 (#1358)
+[33m437d65c[m chore(deps): bump lightningcss from 1.25.1 to 1.26.0 (#1359)
+[33m7c5709b[m chore(deps): bump preact-render-to-string from 6.5.7 to 6.5.9 (#1360)
+[33m21e1921[m chore(deps): bump @napi-rs/simple-git from 0.1.16 to 0.1.17 (#1357)
+[33me47c29d[m chore(deps): bump rehype-katex from 7.0.0 to 7.0.1 (#1356)
+[33ma5f2f87[m chore(deps-dev): bump tsx from 4.16.2 to 4.17.0 (#1340)
+[33meb23cbe[m chore(deps): bump rehype-citation from 2.0.0 to 2.1.1 (#1341)
+[33mcb68069[m chore(deps-dev): bump typescript from 5.5.3 to 5.5.4 (#1343)
+[33md27c292[m feat: Mark the external link icon as aria-hidden (#1346)
+[33m0ee103a[m chore(deps): bump shiki from 1.10.3 to 1.12.1 (#1344)
+[33mc5f0b69[m chore(deps): bump preact from 10.22.1 to 10.23.2 (#1342)
+[33m323167a[m docs(hosting): missing key with: (#1334)
+[33m3b5ed81[m feat(search): keyboard-accessible search button (#1331)
+[33m195fc51[m fix: pass buildId to worker
+[33me89c395[m fix: unmemoize explorer on rebuild (closes #1077)
+[33m2db735a[m docs: recommend at least node 20 in gh
+[33m39eebca[m chore: ts fixes
+[33m9acaa1c[m feat: custom global latex macros (closes #1325)
+[33m27a41ab[m feat(toc,explorer): add accessibility for toggle (#1327)
+[33m12904ab[m docs: Adds back Xinyang's cs garden to showcase (#1323)
+[33m4bbcc0c[m[33m ([m[1;33mtag: [m[1;33mv4.3.0[m[33m)[m pkg: minor bump for breaking nodejs bump :)
+[33m3938904[m fix: embed pdf aspect ratio (closes #1310)
+[33m407fad3[m fix: only one h1 on a page (closes #1269)
+[33mca3943b[m fix: responsive youtube embed (closes #1167)
+[33m6c4ed24[m chore(deps): bump rimraf from 5.0.7 to 6.0.1 (#1277)
+[33m563ab4a[m docs: update node version in hosting docs
+[33m1c2d542[m build: add .node-version
+[33me864740[m docs: Adds back Pelayo Arbues blog to showcase (#1314)
+[33mefed544[m docs: Add "Ellie's Notes" to the showcase (#1315)
+[33m3d156b8[m deps(dev): bump nodejs in ci
+[33m38361aa[m deps: change min required nodejs to v20 (breaking)
+[33mf3e07fd[m chore(deps-dev): bump prettier from 3.3.2 to 3.3.3 (#1293)
+[33md79911f[m chore(deps): bump workerpool from 9.1.2 to 9.1.3 (#1318)
+[33m963c7c8[m chore(deps-dev): bump @types/node from 20.14.11 to 22.1.0 (#1319)
+[33m3728929[m chore(deps): bump preact-render-to-string from 6.5.5 to 6.5.7 (#1317)
+[33m1224c7d[m refactor(comments): move script to files (#1308)
+[33mbf1c9d1[m chore(deps): bump globby from 14.0.1 to 14.0.2 (#1301)
+[33m6264f56[m fix: comments on spa should work (closes #1296) (#1298)
+[33me1a9661[m docs: cleanup showcase
+[33mbc95332[m chore(deps-dev): bump @types/ws from 8.5.11 to 8.5.12 (#1300)
+[33m740172a[m chore(deps): bump vfile from 6.0.1 to 6.0.2 (#1299)
+[33m34fde07[m chore(deps-dev): bump tsx from 4.16.0 to 4.16.2 (#1292)
+[33me688eee[m chore(deps-dev): bump @types/node from 20.12.5 to 20.14.11 (#1291)
+[33m5749fbb[m chore(deps): bump @floating-ui/dom from 1.6.5 to 1.6.8 (#1290)
+[33m5f10df4[m[33m ([m[1;33mtag: [m[1;33mv4.2.4[m[33m)[m pkg
+[33m03f23e5[m feat: comments (giscus)
+[33mb9ee44a[m i18n: disambiguate en-us and en-gb
+[33m87f2b0c[m chore(deps): bump lightningcss from 1.24.1 to 1.25.1 (#1276)
+[33m805d9e3[m chore(deps): bump ws and @types/ws (#1280)
+[33m5fcba1b[m chore(deps): bump mdast-util-to-hast from 13.1.0 to 13.2.0 (#1279)
+[33m942c351[m chore(deps): bump preact from 10.22.0 to 10.22.1 (#1278)
+[33mb37c408[m Fix CreatedModifiedDate.md (#1281)
+[33mf37dbe1[m fix(translusion): block reference not being recognized. (#1274)
+[33m247625c[m feat(layout): add afterBody
+[33m4b407e7[m chore: format
+[33m9cabf2b[m chore: update features
+[33m965425d[m docs + chore: cleanup custom sort ordering for folder + tag listings, add docs
+[33mea92ed4[m feat: Allow custom sorting of FolderPage and TagPage (#1250)
+[33m596e06a[m chore(deps-dev): bump typescript from 5.4.5 to 5.5.3 (#1254)
+[33mc95f1d2[m feat: add alias/metadata to transclude tag (#1229)
+[33mb7793bd[m feat(style): Add textHighlight theme setting (#1242)
+[33mef375d2[m chore(deps): bump rfdc from 1.3.1 to 1.4.1 (#1235)
+[33m2154d36[m chore: use regex flag instead of string in regexp ctor
+[33m3eda53c[m chore(deps): bump remark-smartypants from 2.1.0 to 3.0.2 (#1263)
+[33m4eeacb7[m Fix Non-English Anchor Popover Positioning Issue and Update Type Hint (#1252)
+[33m6245935[m chore(deps): bump shiki from 1.6.0 to 1.10.3 (#1264)
+[33me20dee2[m Fix: Table `overflow-wrap: anywhere` breaks words on mobile (#1259)
+[33maf1fdaa[m chore(deps-dev): bump tsx from 4.11.2 to 4.16.0 (#1256)
+[33m5926d3f[m docs: replace .gitlab-ci.yml example with more reliable and faster ci job (#1243)
+[33me8277d0[m i18n: Update uk-UA.ts (#1245)
+[33mb053d35[m deps: Bump Github Action versions (#1247)
+[33mdbe12c0[m i18n: Improving Spanish & adding Catalan and British English (#1240)
+[33m21e75ac[m fix: "draft" true or false in frontmatter still removes from publishing #1244 (#1249)
+[33mf7bd213[m Permit Manual (and Scripted) Trigger of CI Job (#1251)
+[33m3faf2ff[m feat(analytics): Cabin analytics support (#1221)
+[33m1d94e9c[m css: use fit-content (closes #1194)
+[33m48e16c9[m chore(deps-dev): bump prettier
+[33mcc5913b[m fix(ci): only publish tag on v4 origin
+[33m265faef[m fix: properly compute relative path for explorer (closes #1055, #1066)
+[33m541b470[m fix: overflow fade for good (closes #1218)
+[33m0a3be96[m chore(deps): bump ws from 8.17.0 to 8.17.1 (#1213)
+[33m3cb9392[m chore(deps): bump preact-render-to-string from 6.5.4 to 6.5.5 (#1214)
+[33m569ee74[m chore(deps): bump workerpool from 9.1.1 to 9.1.2 (#1215)
+[33m42640bc[m Check link isExternal before adding target="_blank" (#1211)
+[33m3e14b2b[m fix(wikilinks): pdf page linking (#1207)
+[33m81d00fc[m .callout-content support (#1188)
+[33ma12d76a[m fix: fix explorer view gradient positioning on mobile (fixes #906) (#1206)
+[33m19e127f[m fix DOMLoaded in code examples (#1204)
+[33m0472daa[m homepage coloured as visited in the Graph (#1128)
+[33m63d51a8[m chore(deps): bump preact-render-to-string from 6.4.2 to 6.5.4 (#1198)
+[33m9032717[m chore(deps): bump preact from 10.20.1 to 10.22.0 (#1195)
+[33m3968b85[m chore(deps): bump @floating-ui/dom from 1.6.3 to 1.6.5 (#1196)
+[33m688c548[m chore(deps-dev): bump tsx from 4.11.0 to 4.11.2 (#1183)
+[33m09038f1[m chore(deps): bump rehype-pretty-code from 0.13.0 to 0.13.2 (#1184)
+[33m244801a[m idea: Tags appear as hollow circles on the graph (#1129)
+[33m73a5ec8[m docs: fix link to path tests (closes #1163)
+[33m520acbb[m docs: inline code syntax highlighting (closes #1162)
+[33m0b9f79e[m feat(graph): obsidianLikeFocusOnHover (#1017)
+[33m94fbf5b[m fix: Reorder Unified.js plugins to fix #1132 (#1139)
+[33m3e0e06f[m chore(deps): bump ws from 8.16.0 to 8.17.0 (#1169)
+[33me57984d[m chore(deps-dev): bump tsx from 4.9.3 to 4.11.0 (#1168)
+[33m9ff4626[m fix: change callout metadata regex to include non-letter characters (#1174)
+[33ma99e854[m docs: Update showcase.md (#1176)
+[33m77d6d96[m feat: add callout metadata parsing (#1172)
+[33m9c726ef[m feat(i18n): homepage link for 404 pages (#1117)
+[33m81a4e20[m feat: ability to hide tags in the recent notes component (#1147)
+[33mcf1b3f2[m chore(deps): bump shiki from 1.2.3 to 1.6.0 (#1149)
+[33ma655cec[m chore(deps): bump rimraf from 5.0.5 to 5.0.7 (#1150)
+[33ma97e72f[m i18n: add Polish translation (#1148)
+[33me3cfe1f[m chore(deps-dev): bump typescript from 5.4.3 to 5.4.5 (#1092)
+[33m535af55[m chore(deps): bump hast-util-to-html from 9.0.0 to 9.0.1 (#1137)
+[33m3c4d543[m feat(i18n): add Farsi (#1133)
+[33m67f3614[m chore(deps-dev): bump tsx from 4.7.1 to 4.9.3 (#1120)
+[33m438ea6d[m docs(showcase): add patternlanguage.cc (#1135)
+[33md03fdc2[m feat(analytics): Tinylytics support (#1118)
+[33maee9145[m fix: update link to hosting page (#1054)
+[33ma37c777[m chore(deps): bump preact-render-to-string from 6.4.0 to 6.4.2 (#1094)
+[33me763e19[m Allow pnpm quartz (#1078)
+[33m6a019da[m fix: unnecessery 'm' letter removed in pt-BR (#1100)
+[33m4d73b82[m chore(deps): bump workerpool from 9.1.0 to 9.1.1 (#1073)
+[33m8010093[m chore(deps-dev): bump @types/node from 20.11.29 to 20.12.5 (#1074)
+[33m1f032f5[m feat(analytics): PostHog support (#1072)
+[33m83bdcd5[m chore(deps): bump d3 from 7.8.5 to 7.9.0 (#1047)
+[33mdd82ab8[m fix: broken doc links on /plugins/* (#1053)
+[33m561dafc[m chore(deps): bump shiki from 1.2.0 to 1.2.3 (#1048)
+[33m5ec6146[m fix(wikilinks): proper escaping of pipe character in wikilinks inside tables (#1040)
+[33maa4f529[m fix: do not render <p> inside FolderContent article (#1044)
+[33mfafe50b[m chore(deps): bump preact from 10.19.6 to 10.20.1 (#1035)
+[33m8f13a38[m chore(deps-dev): bump typescript from 5.4.2 to 5.4.3 (#1036)
+[33md75928a[m fix(assets): pdf page linking support. (#1025)
+[33m0a2b52f[m simpler katex fix
+[33m8437d9d[m fix(style): LaTex/KaTeX overflow (#1027)
+[33m70d86ff[m i18n: pt-BR translation (#1024)
+[33m6efc4dd[m i18n: add Hungarian translations (#1023)
+[33m85a737b[m docs: Update showcase.md (#1031)
+[33mde6f469[m chore(deps-dev): bump @types/node from 20.11.25 to 20.11.29 (#1010)
+[33m668640d[m chore(deps): bump shiki from 1.1.7 to 1.2.0 (#1011)
+[33m8007ec0[m chore(deps): bump lightningcss from 1.24.0 to 1.24.1 (#1012)
+[33m7e22c38[m fix(wikilinks): handle wikilinks inside tables seperately from other wikilinks (#1005)
+[33mdaa8796[m fix: format
+[33m91f0a2a[m feat: support rich descriptions in tag listing page (closes #908)
+[33m38d9d52[m feat(search): add search by title/content index and tag at the same time (#978)
+[33m253497c[m docs: add config for Caddy server (#1002)
+[33m4691369[m fix(wikilinks): only escape alias in wikilinks inside tables (#1000)
+[33m7164857[m chore(ofm): remove unused (#999)
+[33m4702402[m chore(deps-dev): bump @types/node from 20.11.24 to 20.11.25 (#990)
+[33mb98e4be[m feat(i18n): Add French translation for reading time (#998)
+[33m8be51a0[m fix: wikiLink in table (#993)
+[33m92cc23d[m feat(plugin): citations (#984)
+[33m097abc3[m chore(deps): bump async-mutex from 0.4.1 to 0.5.0 (#991)
+[33ma00324d[m chore(deps-dev): bump typescript from 5.3.3 to 5.4.2 (#989)
+[33m9fff6d7[m fix: spelling error (#987)
+[33m0f5a9d7[m feat: separated content meta (#929)
+[33mb4236e5[m feat(perf:fast-rebuilds): Stop mutating resources param in ComponentResources emitter (#977)
+[33m6e0c102[m fix(transclusion): prevent duplicate transclusion if multiple transclusions are present. (#982)
+[33m94a5469[m fix(resources): Use full path to font when cdnCache is false (#976)
+[33m2e9a0c2[m fix(description): first sentence no longer repeats until max length (#981)
+[33mb30a200[m fix(i18n): make sure to use correct fileData for manual localization (#975)
+[33m6d59aa8[m fix(description): counts characters instead of words (#972)
+[33m141dd3b[m fix(description): make sure to we join space correctly (#970)
+[33m3d4a94d[m feat(analytics): Goatcounter support (#956)
+[33mba6c7a7[m fix: remove extra # from tag content
+[33mf44e4d2[m fix(tag): remove hash on main page (#969)
+[33m001c166[m fix(tag): move hash to sass styling only (#930)
+[33me13cafe[m feat: support youtube playlist iframe (#968)
+[33m0ca8a2a[m chore: transclude subsection without dynamic regex construction
+[33ma506ced[m chore(deps-dev): bump @types/node from 20.11.19 to 20.11.24 (#958)
+[33m5163504[m fix: transclude all subsections for embedded call (closes #963) (#964)
+[33m73a890a[m revert: "fix(callout): reorder the plugins to render latex on callout… (#965)
+[33m83ab39c[m chore(deps): bump shiki from 1.1.6 to 1.1.7 (#959)
+[33m059dd12[m chore(deps): bump preact-render-to-string from 6.3.1 to 6.4.0 (#960)
+[33ma13d8e8[m chore(deps): bump lightningcss from 1.23.0 to 1.24.0 (#961)
+[33mcec3662[m feat(graph): focusOnHover (#954)
+[33mbcb5b2d[m feat(frontmatter): configure max length for description (#946)
+[33mbd05950[m fix(docs): correct ExplicitPublish as filters instead of transformers (#953)
+[33m2a7e61a[m feat: support transcluding codeblocks and blockquotes (closes #940)
+[33m566f3cf[m chore(deps): bump remark-smartypants from 2.0.0 to 2.1.0 (#755)
+[33m018c635[m fix(callout): reorder the plugins to render latex on callout title (closes #952) (#934)
+[33m1c42b63[m feat(i18n): add Vietnamese translation (#950)
+[33mf200a0b[m fix: correct umami host for self-hosted (#939)
+[33mb9dee07[m docs: Clarifications in the Explorer Docs (#938)
+[33m66a5855[m chore(deps): bump chokidar from 3.5.3 to 3.6.0 (#937)
+[33m4957eaa[m chore(deps): bump preact from 10.19.5 to 10.19.6 (#935)
+[33m6b90d03[m chore(type): export attribute for theme key (#933)
+[33md6e79d1[m chore(types): update correct annotations for pages (#928)
+[33m2f10da7[m docs: fix tag page oops (#925)
+[33m67647d9[m ci: also checkout and install node before tagging
+[33mb88d3d2[m ci: fix typo in runs-on
+[33mc53fd5b[m ci: tag as a separate step
+[33md0c0daa[m[33m ([m[1;33mtag: [m[1;33mv4.2.3[m[33m)[m ci: fix autotag
+[33mea7122d[m pkg: bump to 4.2.3
+[33m2c74b05[m fix(ci): autotag
+[33ma6417c4[m fix(fast rebuild): handle added an deleted markdown correctly (#921)
+[33m6be1ed1[m docs(latex): mhchem
+[33m1929241[m docs: update plugin documentation (#888)
+[33m4217189[m fix(callouts): use user provided title instead of canonical for default title
+[33mbe9b6b3[m fix(docs): make docs accurate to callout behaviour (closes #920)
+[33mfb66ae2[m deps(highlighting): migrate to shiki as shikiji has been archived (#918)
+[33m129e878[m chore(img): return targetUrl as given href (#916)
+[33m96c7076[m feat(popover): add support for PDF (#913)
+[33m345c347[m chore: passing additional buildCtx to componentData (#914)
+[33m916aedc[m docs: Add Aster's notebook to showcase.md (#912)
+[33m7dd596e[m docs: Fix in explorer.md (#911)
+[33m1c3f3d0[m fix(toc): correct type for minEntries param (#909)
+[33m3b266ee[m fix: add space and missing dot for listing pages (#907)
+[33mfc5fa48[m feat(i18n): change itemsUnderFolder, itemsUnderTag translation of ko-KR (#905)
+[33mb6cf3df[m fix: correctly parse falsy js as title (#900)
+[33m779c501[m chore(deps): bump preact from 10.19.4 to 10.19.5 (#898)
+[33mf161962[m chore(deps): bump globby from 14.0.0 to 14.0.1 (#897)
+[33m637e336[m chore(deps-dev): bump @types/node from 20.11.16 to 20.11.19 (#899)
+[33m0493942[m fix: remove assets via globs to avoid volume mount lock (#877)
+[33ma67a8d7[m feat: implement getDependencyGraph for TagPage (#872)
+[33me85ea49[m feat(i18n): add Simplified Chinese (#896)
+[33m3e09b05[m docs: add self-hosting section (#883)
+[33md9e8ffc[m feat(i18n): Add Italian (#893)
+[33mefd46f8[m fix(frontmatter): delimiters parameter was not passed (#885)
+[33m739c2e2[m perf(cdn): CDNJS instead of JSDelivr (#891)
+[33mb1a1053[m feat(i18n): add Korean (#889)
+[33m8c5c5f9[m feat(i18n): add Russian (#886)
+[33maa24a62[m fix(breadcrumbs): calculate trailing slash for tag hierarchies (closes #873)
+[33ma6690c6[m fix(style): bold should use semibold
+[33m06e3f8b[m fix(style): introduce semiBoldWeight and various improvements to reduce CLS
+[33mfa2ea28[m feat: add user-defined config for syntax highlighting plugin (#869)
+[33m5af707e[m fix/feat(fast rebuild): re-render transclusions in normal and fastRebuild mode (#842)
+[33m823d952[m feat: implement getDependencyGraph for AliasRedirects emitter (#860)
+[33m78a408c[m feat: implement getDependencyGraph for FolderPage (#849)
+[33m6c80234[m Add support for image popovers (#854)
+[33m2041341[m docs: workaround for shallow clones on Cloudflare Pages (#868)
+[33m21c6bbf[m chore(types): add additional hint for LSP support (#864)
+[33mb87a701[m fix: base.com not being resolved properly with joinSegments
+[33m880a951[m fix: incorrect link resolution for transclusion in root index file (#853)
+[33ma31e3f9[m chore(deps): bump @floating-ui/dom from 1.6.1 to 1.6.3 (#857)
+[33m2c06e68[m chore(deps): bump preact from 10.19.3 to 10.19.4 (#858)
+[33m4a28d0e[m chore(deps-dev): bump tsx from 4.7.0 to 4.7.1 (#859)
+[33ma7325ea[m fix(analytics): umami custom host should be a string (closes #852)
+[33m5dc4f21[m feat(i18n): localize the min read string for the nl-NL locale (#850)
+[33m76f2956[m feat: add transclude-src to transclude 'link to original'
+[33m226891b[m fix(fast rebuild): call only required emitters, don't always copy assets (#845)
+[33m389f2e8[m fix(ofm): allow diacretic marks in tag regex (closes #830)
+[33m998198c[m chore(deps): bump esbuild-sass-plugin from 2.16.0 to 2.16.1 (#778)
+[33m4a6a449[m fix(breadcrumbs): folder index by full path rather than folder name (closes #676)
+[33m2b39bd9[m feat(i18n): localize the `min read` string for the `ro-RO` locale (#847)
+[33mb5295e0[m fix: breadcrumbs displayName issue for file names ending with index (#839)
+[33mab0e20b[m chore: refactor out and export endsWith
+[33maf5f5ab[m docs: add documentation for Umami analytics integration (#846)
+[33m3518ca9[m feat(i18n): localize the min read string (#838)
+[33mab80eba[m chore(callouts): remove unnecessary whitespaces after class name (#833)
+[33m6ae0bb0[m chore: move fonts all into static folder (#835)
+[33mdb5e701[m feat(i18n): support parsing callouts (#834)
+[33ma0d6daa[m feat(i18n): add Arabic translation (#837)
+[33mfe353d9[m feat(experimental): partial rebuilds (#716)
+[33ma87704c[m fix: set default locale for lang attribute
+[33mfd785ad[m feat(i18n): use Romanian translation for `ro-MD` locale (#828)
+[33me186811[m added Ukrainian to i18n (#829)
+[33m51818ef[m fix(umami): format correct string from custom hosts (#826)
+[33m330e322[m feat(fonts): fetch before build (#817)
+[33mca28477[m add Spanish translations (#822)
+[33m2578597[m chore(lang): lang element based on frontmatter or default locale (#819)
+[33mce413b4[m feat(i18n): add Romanian to i18n (#821)
+[33md2fb50b[m fix(links): show backdrop on links highlighted in headers alias (#816)
+[33m52ef6d1[m fix(search): set background-color for icon within preview panel (#815)
+[33m34334ea[m perf: don't load mermaid if its not on the page
+[33mbec726b[m fix(i18n): forgot a string
+[33m2b9659a[m fix(i18n): add default locale
+[33m19fc538[m chore(deps-dev): bump @types/node from 20.11.14 to 20.11.16 (#811)
+[33m479cbb6[m chore(deps): bump @napi-rs/simple-git from 0.1.14 to 0.1.16 (#810)
+[33mb169a58[m feat(i18n): Add Dutch to i18n (#813)
+[33mba836dd[m feat(i18n): Add Japanese to i18n (#809)
+[33mb061b1b[m feat(i18n): German translation (#808)
+[33me58c217[m feat: support checkbox (closes #646) (#799)
+[33m9072568[m style(search): increase width on mobile view (#796)
+[33mc891ad8[m[33m ([m[1;33mtag: [m[1;33mv4.2.2[m[33m)[m pkg: bump to 4.2.2
+[33m06ee73e[m fix(path): properly path encode &
+[33m36e4cc4[m chore(i18n): refactor and cleanup (#805)
+[33mdff4b06[m fix(i18n): backlinks naming in mapping (#800)
+[33m5b90fbd[m feat(ofm): parsing all type of arrow (#797)
+[33mdbbc672[m feat: Adding support for i18n (closes #462) (#738)
+[33m3fb3930[m fix: calculate heading after latex (closes #719)
+[33m742b883[m fix(search): flex basis and card highlighting
+[33m9ff1fdd[m fix(search): oops restore ability to preview on hover lol
+[33ma2c46f4[m fix(search): dont rely on mouse to manipulate focus
+[33m260498a[m fix(style): prevent callout icon from shrinking on long titles (closes #792)
+[33m0a3379a[m fix(search): null checks and focus fixes
+[33mbece8fc[m fix: properly handle absolute paths in `CreatedModifiedDate` (#790)
+[33m18745a9[m fix(style): correctly collapse on mobile
+[33m34a8dfc[m[33m ([m[1;33mtag: [m[1;33mv4.2.1[m[33m)[m pkg: bump to 4.2.1
+[33m44da824[m fix(style): remove redundant selector
+[33m3231ce6[m fix: search async ordering, scroll offset
+[33ma0b927d[m fix: use display instead of visibility for click handling pasthrough
+[33m5ab922f[m fix(revert): font aliasing
+[33md11a0e7[m fix: font smoothing defaults
+[33m2b57a68[m fix: font weight consistency
+[33m18cd586[m fix: parallelize search indexing
+[33mee868b2[m fix(search): set correct attribute on hover icon (#787)
+[33m5a36e5b[m fix(style): reasonable page width for rich search preview
+[33m0416c03[m fix: be more eager about constructing search index
+[33m3b596c9[m fix: flatmap children when highlighting rich preview to avoid body
+[33m970a30a[m[33m ([m[1;33mtag: [m[1;33mv4.2.0[m[33m)[m chore: fmt
+[33mdc62aeb[m pkg: bump to 4.2.0
+[33m9b8e0c9[m chore(cleanup): misc refactoring for cleanup, fix some search bugs
+[33m45b93a8[m fix: index setup, styling fixes
+[33me9fb0ec[m fix: border radius on search preview
+[33mc0c0b24[m feat: improve search preview styling and tokenization
+[33mc00089b[m chore: add window.addCleanup() for cleaning up handlers
+[33m8a6ebd1[m docs: clarity for `RecentNotes` (#786)
+[33mf78b512[m chore(search): check for input type and assignment of focus (#785)
+[33m295b8fc[m fix(search): increase size on fullPageWidth viewport (#784)
+[33m756acc7[m feat(search): highlight on preview (#783)
+[33m9aa6a18[m fix(search): improve more general usability (closes #781) (#782)
+[33m444e05e[m chore(deps-dev): bump @types/hast from 3.0.3 to 3.0.4 (#780)
+[33m1c175b2[m chore(deps): bump mdast-util-to-hast from 13.0.2 to 13.1.0 (#776)
+[33m7b2ce8b[m chore(deps): bump async-mutex from 0.4.0 to 0.4.1 (#777)
+[33mf2e93c3[m chore(deps-dev): bump @types/node from 20.11.11 to 20.11.14 (#779)
+[33m25e6869[m deps: reduce dependabot frequency
+[33mbfd8771[m fix: regression in formatted callout titles
+[33m422986c[m fix(search): remove background with mouseEvent (#775)
+[33m75d64ea[m fix: fmt
+[33m355aa22[m docs: fix outdated comment on rebuild debounce behaviour
+[33m7cb1c29[m fix: allow formatting in callout titles
+[33m22de92f[m[33m ([m[1;33mtag: [m[1;33mv4.1.6[m[33m)[m pkg: bump to 4.1.6
+[33me1f12e6[m fix(style): search preview consistency
+[33m50bb1ff[m feat(usability): update functions for search (#774)
+[33mfee3ef9[m chore(deps): bump katex to 0.16.9 (#772)
+[33ma29fadb[m feat(search): experimental telescope layout (closes #718) (#722)
+[33m4e5643f[m fix: properly parse tags in body
+[33m072ee64[m feat: Feature/custom callout icon (#727)
+[33m90043cd[m chore(deps): bump lightningcss from 1.22.1 to 1.23.0 (#765)
+[33me21d50c[m chore(deps): bump @floating-ui/dom from 1.5.3 to 1.6.1 (#766)
+[33mf3c7211[m chore(deps-dev): bump @types/node from 20.3.3 to 20.11.11 (#767)
+[33mead7ee2[m chore(deps-dev): bump prettier from 3.1.1 to 3.2.4 (#768)
+[33m6ba138b[m feat: support selfhost umami (#764)
+[33m6ce754b[m fix(css): improve wrapping when right sidebar has more than two items (#762)
+[33m8df7418[m fix(type): annotate event for nav (#761)
+[33m37c6231[m fix(div): update class name to remove weird space afterwards (#763)
+[33m9555407[m fix(type): make sure dispatchEvent also accept UIEvent (#760)
+[33mfbb4d7e[m chore(deps): bump workerpool from 8.0.0 to 9.1.0 (#757)
+[33m5f624ed[m chore(deps): bump remark-rehype from 11.0.0 to 11.1.0 (#758)
+[33mb8ddf53[m chore(deps): bump rfdc from 1.3.0 to 1.3.1 (#759)
+[33mb85a354[m chore(deps): bump @napi-rs/simple-git from 0.1.11 to 0.1.14 (#756)
+[33mebf429a[m fix: fmt
+[33m2d72744[m fix: implement regex fix for alt in image wikilinks (closes #753)
+[33m76be137[m fix: attempt to merge cached folder state between builds (closes #691)
+[33mf68872c[m feat(icon): update content for gfm links (#751)
+[33mb7152f7[m feat: div that encapsulate PageList component (#750)
+[33m603c181[m feat: allow to config a translation for date (#739)
+[33m16adbd3[m fix: `cssclasses` was not applied on folder note (index) (#749)
+[33mb014d06[m fix: content-disposition inline should apply to all resource types (closes #728)
+[33m85f05ea[m fix: revert parsing dates in frontmatter
+[33mbf5a556[m docs: improve first-time git setup
+[33mc4b756c[m style: remove redundant webkit prefix
+[33m211f95c[m fix: allow alt to be defined in wikilinks alongside dims
+[33mba40516[m fix: fmt
+[33ma70078c[m feat: Option to mask folder count (#734)
+[33m2b62e29[m fix: revert bad tsconfig change
+[33mefdce07[m deps: bump flexsearch
+[33m2739457[m chore(deps): bump shikiji from 0.9.9 to 0.10.2 (#742)
+[33m7695df6[m chore(deps): bump rehype-mathjax from 5.0.0 to 6.0.0 (#745)
+[33m319dec4[m chore(deps): bump @napi-rs/simple-git from 0.1.9 to 0.1.11 (#746)
+[33mbebd632[m chore(deps-dev): bump tsx from 4.6.2 to 4.7.0 (#743)
+[33m0a2d746[m chore(deps): bump rehype-pretty-code from 0.12.3 to 0.12.6 (#741)
+[33mb11fefb[m feat: enable dependabot
+[33m42ee069[m fix: generalize frontmatter parsing and coercing
+[33mb211d49[m feat: Handling cssclasses properties in Quartz (#711)
+[33maf3a4ff[m docs: i can't type
+[33m448ba00[m docs: fix phrasing
+[33m8fa1a1e[m fix: allow partial when specifiying layout for emitter plugins
+[33mb87c6cd[m docs: add nicole van der hoeven's setup guide
+[33ma8e1c4a[m docs: rearrange showcase
+[33md90199c[m fix: code block overflow scroll (#729)
+[33md5b4027[m feat: Enable custom callout (#724)
+[33mb22bcd1[m fix: border-box result-card
+[33mfa6c02d[m fix: make search result card block
+[33m5fb203a[m fix(style): make a not inline-block
+[33m0a76707[m feat: Emit custom event when theme changes (#723)
+[33m1ce12fc[m cleanup: Move `rebuild` function outside `startServing` function (#715)
+[33meb302c0[m fix(search): update no results to be `a` (#721)
+[33mc9ac2a7[m[33m ([m[1;33mtag: [m[1;33mv4.1.5[m[33m)[m pkg: bump to 4.1.5
+[33m7ca491b[m fix: add polyfill for broken tabindex on mac
+[33m4edd27d[m fix: font weight in search
+[33m2c8d0f8[m fix: more robust ofm comment handling
+[33mcd826fb[m fix: process comments at a text level rather than a markdown level
+[33m273931d[m fix: breadcrumbs on non-folder pages
+[33m0403fa7[m fix(search): use anchor element (closes #698) (#717)
+[33m015b4f6[m fix: remove quartz 3 references, update font style in popovers
+[33m4d338ce[m feat(ofm): add options to parse arrows (#713)
+[33mc11395e[m feat: Add an option to display or not reading time from notes (#707)
+[33m1f2ea96[m fix: allow dashes and underscores in block references (closes #712)
+[33mce3dd09[m refactor: move emit from callback to helper file function (#704)
+[33maf811d8[m style: make internal link have less visual padding (closes #706)
+[33m129e0c6[m fix: remove extra console log
+[33md7d5d82[m fix: clean up ofm code for video parsing
+[33mf6299da[m feat: add ofm option to transform `<img>` tags with video exts into `<video>` (closes #463) (#664)
+[33me17ff20[m fix: use joinSegments for `contentIndex.json` file path (#702)
+[33m107d9b8[m fix: external link icon shouldn't be vertical aligned (#699)
+[33mfa7d139[m feat: External link icons (#697)
+[33mf31cabb[m fix: dont use default callout title if theres additional title children left (closes #693)
+[33m30640e3[m Revert "fix: rebuild errors on windows (#692)" (#695)
+[33m8eec47c[m fix: rebuild errors on windows (#692)
+[33mf363765[m fix: allow transcludes of notes with dots (closes #682)
+[33ma40dbd5[m fix: unbork search shortcut
+[33me703123[m feat: improve default layout
+[33m4e82b0d[m docs: add sidneys artist handbook to showcase
+[33m783b9b2[m fix: dont hijack handlers when search is not focused (closes #680)
+[33m4014c4d[m fix: add another test for notes with dots
+[33m6babb78[m fix: sluggify pound (closes #681)
+[33m0a8c38d[m fix: small typos (#686)
+[33m52e6c03[m fix: broken RSS item's link, which were set to `https:/${base}`. (#687)
+[33m1a8aedf[m docs: clarify git only sets modified
+[33ma4d6f70[m fix(showcase): markdown link (#673)
+[33m6001716[m chore: add my garden 😃 (#672)
+[33m5ccc48a[m style: div -> li for explorer
+[33m707124c[m fix: allow publish property to be a string (ExplicitPublish) (#667)
+[33m88194ac[m feat: allow embedding youtube videos with the obsidian markdown syntax (#665)
+[33m65d75b8[m feat: support modification date reading from parent git repo (#661)
+[33m6e34844[m feat: embed webp images (#666)
+[33mb33f13c[m fix: dont show last page if folder
+[33m002bbc3[m fix: Continue setup even if a file to delete is not found (#663)
+[33me603d73[m fix: parse emoji tags in body (closes #659)
+[33m40cfccd[m style: relative back on pre
+[33me758cbe[m[33m ([m[1;33mtag: [m[1;33mv4.1.4[m[33m)[m pkg: bump version to 4.1.4
+[33m4b6c7ae[m feat: lazyLoading specifier in link transformer
+[33me277ed5[m fix: use joinSegment instead of joining via slash in sitemap (closes #658)
+[33m68f5335[m feat: Self-hosted Plausible support (#656)
+[33m359484c[m fix: more robust tags parsing
+[33mdafc9f3[m feat: minify js scripts (closes #655) (#657)
+[33me1b6a00[m docs: add explorer example for advanced `sortFn` (#564)
+[33m233d4b2[m fix: fix invalid html output (#642)
+[33m504b447[m fix: use slugs instead of title as basis for explorer (#652)
+[33m63bf1e1[m style: remove relative from base pre
+[33mbe76da9[m docs: Add CollapsedWave to showcase.md (#643)
+[33m8fe37cc[m docs: update issue template
+[33m2e9896c[m fix: deep clone before relativizing urls in transclude (closes #640)
+[33m7bcf272[m fix: latex before syntax highlighting
+[33mb44a79e[m fix: wikilinks should allow external links (closes #639)
+[33m9b9d864[m fix: mermaid rendering fix from upstream
+[33m4c83251[m feat: -v flag should log exact error on parse failure
+[33m984ab1c[m fix: change backtick to regular after making script loading less hacky
+[33m443cd53[m fix: mermaid rendering broken after rehype-pretty-code bump (closes #638)
+[33m5152d32[m pkg: bump version to 4.1.3
+[33mea6208c[m deps: bump everything (closes #635) (#636)
+[33m78b33fc[m fix: release build lock before client refresh
+[33md2be097[m feat: include tag hierarchies in tag listing, sort tag listing
+[33mad1f964[m docs: graph view tag options
+[33m150050f[m docs: agentic computing in quartz philosophy
+[33md979331[m fix: remove whitespace unicode from tag regex
+[33m972cf0a[m feat: support emoji tags (closes #634)
+[33m14e6b13[m docs: dont pull on first sync
+[33m3c01b92[m docs: note embeds and update git hint
+[33med9bd43[m docs: update showcase
+[33mc35818c[m fix: set upstream in sync handler, cleanup docs around setting up github
+[33ma464ae5[m fix: format
+[33m66e297c[m css: make article no longer relative to prevent z-fighting
+[33m4442847[m fix: internal link selector specificity
+[33me6b5ca3[m re-add gitkeep to content
+[33m1b92440[m fix: better error handling on spawnsync failures
+[33mc654690[m fix: reland string coercion in title
+[33m2c69b0c[m fix: frontmatter coercion (empty string is falsy)
+[33ma7e2080[m feat: Support space-delimited tags in `FrontMatter` transformer (#620)
+[33m5196f3b[m docs: github setup and hosting fixes
+[33mf0ec6c9[m fix: tag index page (#616)
+[33m9c88d59[m fix: don't show popovers on heading anchors
+[33m0d8c025[m[33m ([m[1;33mtag: [m[1;33mv4.1.2[m[33m)[m deps: version bump
+[33m54b4a55[m fix: fmt
+[33m610b044[m fix: incorrect test
+[33m82bd08d[m fix: transcludes and relative paths
+[33m649090d[m docs: add deploy with netlify (#613)
+[33mb5fec6c[m feat: allow popovers on intrapage links (closes #243)
+[33m0d314db[m fix(style): overflow on toc
+[33m660aae6[m docs: add Imk&Cc's homepage to showcase.md (#595)
+[33m9a599ae[m feat(breadcrumbs): add option to hide current page (#601)
+[33m296c1cf[m fix: spa shouldn't use popover script directly
+[33m516d9a2[m fix: explicit undefined check in header transclude
+[33m6a05fa7[m fix: bad transform in wikilink pre-transform (closes #598)
+[33m3f0be7f[m fix: check content-type before applying spa patch (closes #597)
+[33mea08c05[m fix: dont run explorer scripts on non-explorer pages (closes #596)
+[33m727b9b5[m feat: add class `alias` to aliases (#585)
+[33m50f0ba2[m feat: cname emitter (#590)
+[33m95b1141[m fix: include anchor when normalizing urls for spa/popovers
+[33ma26eb59[m feat: scrub link formatting from toc entries
+[33m5befcf4[m fix: format
+[33mf861a7c[m fix: regression where clicking anchors on the same page wouldn't set the anchor in the url
+[33m06426c8[m feat: support repeated anchor tag (closes #592)
+[33m8fc7b9f[m feat: deref symlinks when copying static assets (closes #588)
+[33m2de48b2[m fix: set htmlAst after walking tree in ofm (closes #589)
+[33m76f2664[m[33m ([m[1;33mtag: [m[1;33mv4.1.1[m[33m)[m versioning: bump to v4.1.1
+[33m7477711[m feat: header and full-page transcludes (closes #557)
+[33m8223465[m fix: make :has img selector direct
+[33mcf6ab9e[m feat: option to specify npx quartz sync message (closes #583)
+[33m74c63e4[m fix(style): dont internal-link highlight when image (closes #581)
+[33m43d638a[m perf: compute mapping of folder name to file data for faster breadcrumbs
+[33md155187[m fix: check if popover exists after fetching and before inserting
+[33m275bea3[m style + cfg: resolve breadcrumb titles by default and change arrow character
+[33mbc02791[m fix: .date.getTime() based sort
+[33mbf603c4[m fix: sort rss feed by date
+[33mf67356c[m lint: format
+[33m5d666d1[m fix: normalize relative urls (closes #569)
+[33m22b7cf1[m types: cast in jsx.tsx to avoid @ts-ignore
+[33m50a87d0[m style: scrollable tables
+[33m134b6ed[m fix: anchors links shouldnt cause reload (closes #574)
+[33m99e8f59[m fix: trailing slash aliases (closes #577)
+[33me9f4e28[m fix: adapt vercel cleanurls (#487)
+[33m2a6b9a9[m docs: fix property name for ToC toggle (#573)
+[33me806c30[m docs: Add Mau Camargo's Notkesto to showcase (#570)
+[33maac7b7e[m docs: Update making plugins.md (#567)
+[33m101e994[m feat: add collapseByDefault option to TableOfContents (closes #566)
+[33ma62a97c[m docs: add GitLab pages CI (#549)
+[33m923b72f[m[33m ([m[1;33mtag: [m[1;33mv4.1.0[m[33m)[m feat: auto-tag releases (closes #560)
+[33m05a1c34[m docs: remove dead link (#561)
+[33m06ccb89[m docs: clarifications about globs (#559)
+[33m01fc8e4[m fix: disable semi-broken flexsearch cache
+[33m7c01e8d[m feat: openLinksInNewTab option for link transformer
+[33mb7ae7a9[m fix: styling for nested popover tag in page list
+[33m60b3bc3[m fix: catch html to jsx errors (closes #547)
+[33mdc83401[m fix(style): tag float orientation for long tags on page listing
+[33m1e357ef[m fix(style): prioritize base and custom scss over component css
+[33m54e722a[m docs: Update showcase.md (#540)
+[33m86d16b1[m docs(explorer): Fixed small typo with extra } in explorer.md (#541)
+[33med97180[m Update showcase.md (#539)
+[33maf9ddad[m fix(css): import base from custom instead of the other way around (#536)
+[33mda0a062[m feat: docker support for v4 (closes #530)
+[33mf66d2c2[m fix: ctrl+click with spa enabled
+[33m3268d45[m css: make article relative
+[33mafa163f[m style: styling for codeblocks without langs (#527)
+[33mcec4877[m fix(breadcrumbs): problem with folder whitespace (#522)
+[33mcf0c090[m specify minimum npm version
+[33mc8f5dbb[m fix: Fix `Backlinks` not applying the display class (#519)
+[33mab5efac[m Fix: RSS title escaping (#521)
+[33m2f99339[m feat: add transformations for latex in oxhugofm (#510)
+[33m5232d09[m feat: Better and more responsive tag behavior (#515)
+[33m0138085[m docs: fix typo in breadcrumbs documentation (#513)
+[33m0b61f6f[m feat: implement breadcrumb component (#508)
+[33md4c1226[m fix(explorer): default sortFn implementation (#511)
+[33md22c3c1[m fix: coerce title to string
+[33m697bffd[m fix: treat the 0 time as invalid too
+[33mea5742c[m fix: mermaid copy source position
+[33m95eec5b[m add site to showcase (#504)
+[33mc5b9137[m docs: Adds Vince Imbat to showcase (#501)
+[33m13c8673[m feat: add warning for invalid date format
+[33ma897cc1[m feat: add warning for missing home page
+[33md935993[m docs(showcase): fix pull request redirect link (#500)
+[33mfa69c2a[m fix(explorer): increase consistency, explicitly use font-family (#496)
+[33m8eb1554[m fix(explorer): display names for folders without frontmatter (#494)
+[33mdcdeae4[m docs(explorer): update default config + new example (#493)
+[33m4845223[m perf: memoize filetree computation (#490)
+[33m16d33fb[m feat: display name for folders, expand explorer a little bit (#489)
+[33mb029eea[m feat(explorer): improve accessibility and consistency (+ bug fix) (#488)
+[33m6a9e635[m Revert "feat: Making Quartz available offline by making it a PWA (#465)"
+[33m70e029d[m Revert "docs: wording changes for offline support"
+[33m0bad3ce[m docs: document enableToc
+[33m52a172d[m docs: wording changes for offline support
+[33md6301fa[m feat: Making Quartz available offline by making it a PWA (#465)
+[33m27a6087[m fix: tag regex no longer includes purely numerical 'tags' (#485)
+[33m1bf7e3d[m fix(nit): make defaultOptions on explorer not a function
+[33mcc31a40[m feat: support changes in system theme (#484)
+[33m0d3cf29[m docs: fix explorer example (#483)
+[33m6a2e0b3[m fix: bad visibility for last explorer item (#478)
+[33me67f409[m Merge pull request #479 from benschlegel/explorer-config
+[33m4afb099[m docs: fix examples
+[33m6914d4b[m docs: fix intra page links
+[33maf41f34[m fix(slug): Handle question mark (#481)
+[33m7ac772f[m fix: darkmode scroll bars (#480)
+[33m5cc9253[m docs(explorer): write docs for new features
+[33m94a04ab[m fix(explorer): filter function in `ExplorerNode`
+[33m9358f73[m fix: display name for file nodes
+[33mf702901[m feat: black magic
+[33mfea3528[m fix: create deep copy of file passed into tree
+[33m3d8c470[m feat(explorer): implement `map` fn argument
+[33m31d16fb[m feat(explorer): integrate filter option
+[33m036a33f[m fix: use correct import for `QuartzPluginData`
+[33m58aea1c[m feat: implement filter function for explorer
+[33mc7d3474[m feat(explorer): add config to support custom sort fn
+[33m422ba5c[m fix: umami analytics date attribute (#477)
+[33m9ae6343[m Revert "fix: use git dates by default, @napi/git is fast enough"
+[33m5dcb7e8[m fix: use git dates by default, @napi/git is fast enough
+[33m91f9ae2[m feat: implement file explorer component (closes #201) (#452)
+[33m14cbbdb[m feat: display tag in graph view (#466)
+[33mcce389c[m feat: note transclusion (#475)
+[33m4461748[m fix dont show html in search when rssFullHtml is true (closes #474)
+[33m6ecdcb5[m feat: resolve block references in obsidian markdown
+[33me3b8797[m feat: rich html rss (closes #460)
+[33m60a3c54[m fix: 404 page styling for nested pages (closes #458)
+[33m71d81bd[m feat: rss limit (closes #459)
+[33ma19df64[m fix: callout parsing (#469)
+[33m4e23e67[m feat: plugin for remark-breaks (#467)
+[33ma66c239[m ci: print bundleInfo
+[33m53f1c88[m fix: more lenient date parsing for templates
+[33m06df00b[m typo (it's draft, not drafts) (#456)
+[33m2525bfb[m fix: links to index not showing in graph (closes #450)
+[33m828aa71[m fix: escape encoding for titles in rss
+[33mef1ead3[m fix: encodeuri for slugs in rss
+[33m989bee5[m docs: correct field for ignorePatterns
+[33m8d6029b[m feat: 404 page emitter
+[33m2d52eba[m fix: dont transform external links
+[33m6ef4246[m docs: update `full-text-search.md` (#447)
+[33m616a7f1[m docs: Make it clearer that wikilinks go to paths not page titles (#448)
+[33me8a04ef[m feat(analytics): Support for Umami (#449)
+[33m7e42be8[m feat(search): add arrow key navigation (#442)
+[33m8c354f6[m fix: clipboard button visible in search (#445)
+[33m505673a[m feat: pluralize things in lists
+[33m23f4304[m fix(search): matches getting highlighted in title (#440)
+[33m90dac31[m feat: Implement search for tags (#436)
+[33m2d6dc17[m Adds Pelayo Arbues to showcase (#435)
+[33mb213ba4[m fix: regex for matching highlights (closes #437) (#438)
+[33m5fa6fc9[m fix: aliasredirects not using full path, add permalink support
+[33m1cc09ef[m feat: support kebab-case and nested tags in Obsidian-flavored Markdown tag-in-content parsing (#425)
+[33mc35cd42[m fix: correct graph labels for `index.md` nodes (#431)
+[33m082fdf2[m Fix typo :) (#430)
+[33mb6b1dab[m feat: support configurable ws port and remote development (#429)
+[33m4b89202[m cleanup: rework cli to allow invoking create and build outside of cli (#428)
+[33m52ca312[m fix: slugify tag on page before adding (closes #411)
+[33mc91e62c[m Fix search bar after navigate (#424)
+[33mad4145f[m feat: support CLI arguments for `npx quartz create` (#421)
+[33m74c3ebb[m style: fix mulitline callout styling
+[33me3265f8[m docs: simplify oxhugo page
+[33mbc543f8[m feat(plugins): add OxHugoFlavouredMarkdown (#419)
+[33m5c6d1e2[m feat(plugins): add toml support for frontmatter (#418)
+[33m340e3ef[m feat(consistency): Add `.obsidian` to ignorePatterns (#420)
+[33m953ef29[m format, ensure ci runs on prs
+[33m94ce088[m style: integrate tertiary color to text-select (#413)
+[33m8cf7280[m feat: reproducible build (#412)
+[33mc8412a5[m format
+[33mfc4b8f3[m fix: ensure recentnotes uses proper date
+[33m6cd0612[m fix: add better warning when defaultDateType is not set due to upgrade
+[33m9851697[m version bump to 4.0.10
+[33mc36a9f3[m feat: add defaultDateType config
+[33m98d8241[m fix: lock to never read when site is building
+[33m9d2340e[m docs: fix typo in `authoring content.md` (#408)
+[33m8200c8d[m Revert contentIndex to RSS 2.0 (#407)
+[33m2e0e518[m format
+[33m632c27b[m docs: update `hosting.md` with Vercel hosting instructions (#406)
+[33mbfb416b[m fix: text wrap in popover
+[33m960c181[m docs: make incompability of trailing slashes clear
+[33meed4472[m fix: use proper full base for links.ts
+[33mb99eb7e[m docs: whitespace
+[33m0aaf88b[m Fix #403 by moving documentation to separate directory to avoid merge conflicts (#405)
+[33ma1a1e7e[m fix: builds should no accumulate on repeated changes (closes #404)
+[33m3209f7c[m deps: native addons for lightningcss
+[33mcde1e26[m deps: install exact
+[33m1128efc[m deps: esbuild and esbuild-sass-plugin
+[33md2f5254[m fix(esbuild): conflict with esbuild-sass-plugin (#402)
+[33m3064839[m version bump to 4.0.9
+[33mb444c5c[m fix: percent-encoding for files with %, contentIndex for non-latin chars (closes #397, closes #399)
+[33m36548d5[m fix: toc for cyrillic and other non-latin alphabets (closes #396)
+[33m99dbe52[m fix: properly lock across source and content refresh by sharing a mutex
+[33m8b63ff8[m fix: tag support for non-latin alphabets (fixes #398)
+[33mb991cf2[m fix: spa hijacks back button (closes #400)
+[33mbb67784[m fixed broken CJK links (#390)
+[33mc60b3d5[m fix: typo in bootstrap-cli.mjs (#394)
+[33me10de3f[m fix: server-handler crash from filename (closes #386)
+[33mb69556c[m fix: async-mutex not exclusively locking correectly
+[33mce70571[m docs: use canonical quartz.jzhao.xyz, update bootstrap script to point to correct hosting link
+[33m8c943f4[m format, update default sidepanel width
+[33m2774e97[m fix: opts being overriden in graph option (#384)
+[33mbb93ac1[m docs: fix links to networked thought
+[33m777ff51[m format
+[33m4e42d52[m fix: ctrl + k breaking after page nav
+[33md0f67d9[m move wss server start after http
+[33m952d6cb[m fix: nav event with spa off, anchor nav refresh page
+[33m173ec24[m fix: jump to anchor on deployed site triggering spa refresh
+[33m425c978[m remove checkout step from instructions as v4 is the default branch
+[33m7b7064a[m[33m ([m[1;33mtag: [m[1;33mv4.0.8[m[33m)[m fix: ensure code exists inside pre before adding clipboard
+[33mca17af4[m fix: dont show index page for folder in its own listing
+[33m7147111[m fix: ci runs on v4
+[33me65ea48[m fix: add async-mutex to builds on large vaults
+[33mb99d4cd[m recent notes css fixes
+[33m1bb00e7[m add docs for recent notes
+[33m236130a[m css fixes, add recent notes, more robust quartz update
+[33m5adf3c6[m add engines field
+[33m9d77eda[m fix description not being used in folder and tag listings
+[33m0ef1b5b[m update plausible url
+[33mcfb7d12[m docs: update notes for tag and folder listings
+[33m03fd624[m docs: note about updating default branch
+[33md205eb5[m docs: make setting upstream more clear, docs on npx quartz restore
+[33m96a3bfe[m fix: put quotations around font
+[33m95fb6cc[m readme fix
+[33me262482[m fix: string for aliases being treated as array of chars
+[33meb4d3dc[m css: fix scrollbars on windows
+[33m90d6c1e[m add git fetch to migration instructions
+[33m443c182[m Merge branch 'v4' of https://github.com/jackyzha0/quartz into v4
+[33m791b8e2[m add sponsors
+[33ma6236d9[m Adding to Showcase page (#367)
+[33mb1debae[m update docs
+[33m7b80174[m impl baseDir option for quartz build --serve for local testing
+[33m6681f28[m fix trailing slash causing folder listing to not fetch content correctly
+[33m78f4cdb[m avoid 404 on icon for spa navigations with anchors
+[33mdd47be1[m improve path resolution stability
+[33mc874e7e[m base path refactor to better support subpath hosting
+[33m3201f83[m v4-alpha -> v4
+[33md8bec63[m update docs on github pages and syncing
+[33m6f1f820[m fix typo in docs
+[33m8bc7a50[m format
+[33m569beb4[m ensure sync includes untracked files
+[33m5713d30[m ensure contentfolder is passed to popContentFolder
+[33ma130945[m fix when symlink targ is calculated and added npx quartz restore
+[33me10f6da[m format
+[33ma7cca32[m deref symlink on quartz sync
+[33m0998bc3[m fix rebuild debouncing
+[33m07a327e[m fix back button in spa not working between two pages that both have hash fragments
+[33m58d9dc0[m format
+[33m0c19997[m various path fixes for links to extensions, fix relative paths in links
+[33m2dc0ae2[m fix import paths
+[33m2f6747b[m fix relative path resolution in router and link crawling
+[33m2326521[m Update hosting.md (#371)
+[33m7bde99b[m fix: add trailing slash to local serving
+[33mf1c9ca4[m docs: note about existing content at same path on different branches
+[33m4f4b04e[m format docs
+[33md6e73f2[m fix relative path resolution logic, add more path tests
+[33m6d9ffd6[m 404 page styling on local
+[33mc89f8b1[m fix nested callout folding
+[33m8fd496b[m Update hosting.md (#368)
+[33maed3f5f[m fmt
+[33mc55d54f[m enable rich text in callout title
+[33m7bffc21[m include home page in search
+[33m827dd91[m format, make search async
+[33me1dd6ae[m fix wikilinks to anchors in the same document
+[33m83269ac[m fix scanning for tags in content
+[33med62ece[m fix broken tag listing links to tags
+[33m736c398[m fix emit filepaths, tag emit being overriden by content
+[33m79e8286[m feature docs
+[33m259d0a6[m more documentation
+[33mdf02ea2[m spacing fix
+[33m21cc6a5[m run prettier
+[33mcefbca4[m docs on making plugins
+[33mad3f7b2[m format
+[33mebf3263[m update npx quartz update script
+[33mcea6834[m profiling, better concurrency heuristics
+[33m68ccd1d[m format
+[33m49bd6bc[m better concurrency debugging, --concurrency flag for npx quartz build
+[33me4950e0[m fix getFileExtension missing numeric extensions (e.g. mp4)
+[33me21f0f9[m change reading time to content meta
+[33mee9ed4f[m fix head.tsx
+[33m2706a13[m guide to creating components
+[33m09d4eb0[m fix notes
+[33m533d68e[m most of creating components, increase legibility of bold in article and callouts
+[33m774a162[m format
+[33m2ac5dd4[m fix regression in code block font-size boosting on safari mobile
+[33m527ce65[m various css fixes, fix new image loading bug when previewing, path docs
+[33md02af6a[m architecture, fix vendor prefixing
+[33mb4cacd5[m format
+[33mcd9dc6e[m fix css transforms for mobile
+[33md8d9dd2[m fix shortest path for non-md files, mobile fix
+[33m075ac33[m note formatting
+[33m3adc73a[m docs upgrade, ci changes
+[33m028bcec[m mobile fixes, fix bug when linking to anchor on home, docs
+[33mdb6054a[m format, remove markdown from being procesed
+[33ma0d651d[m reverse query param hack to re-add sourcemap support
+[33m1da467d[m non-admonition callout fix
+[33m7c09627[m improve hot reload robustness
+[33mc402f0c[m more robust error handling, config hotreload
+[33m9e76b25[m fix mermaid initialization
+[33m21a7ec2[m bump mathjax version
+[33m6423f85[m fix execsync
+[33m3a2eae0[m fix fetch flags
+[33m2acfb9e[m format, add upstream
+[33m93986c6[m update pull strategy
+[33m4877a9c[m fix callout aliases not being used properly
+[33m6457496[m readme fixes, force
+[33mfdf1e2a[m use checkout for pulling updates
+[33m663c41f[m use posix style paths for all path ops
+[33mde72dd4[m format
+[33m5537ca4[m use autostash and pull
+[33m558a509[m format
+[33md7842e0[m make path and globbing more platform invariant
+[33m264ea3d[m add gitattributes for windows
+[33m0a33ff7[m fix test matrix for ci
+[33m429f331[m make ci also run on windows, re-add css minification
+[33m9a0f200[m windows patches
+[33mc8c108c[m change default strategy to be rebase
+[33maaae7d4[m Merge branch 'v4-alpha' of https://github.com/jackyzha0/quartz into v4-alpha
+[33ma70e846[m flag to allow ofm replace in html embed
+[33mcbae88f[m Removing redundant properties (#356)
+[33mcc79502[m make layouts simpler to think about
+[33m45f9087[m fix checkbox/tasklist styling
+[33m1c1a569[m fix formatting
+[33mcee2883[m nested tag support and tag index page
+[33mc0278a8[m font loading options, optimize css
+[33me82ba97[m actually add processed tag to frontmatter
+[33m041a4ce[m fix watch-mode batching
+[33m569ff1a[m npm i on quartz update
+[33m351b4ab[m styling fixes for stacking order and overflow
+[33m4811500[m make component resources a proper emitter
+[33m236ba56[m version bump, update doc
+[33m7c2bb4e[m bundleinfo flag, minify scripts
+[33m8fd75ff[m support attachments folder
+[33m55a1fb8[m format
+[33m9e83af0[m refactor static and asset emission to be actual emitter plugins
+[33m000eb4c[m update feature list
+[33m5599eb5[m feat: process tags in content
+[33mae2e3b4[m improve error handling while serving
+[33mfd7c33c[m style fixes for search bar and title on mobile
+[33m76fdb3b[m fix styles
+[33m27a5f7e[m various typography and styling fixes
+[33mab22874[m oops actually use npm run check
+[33m76fa9bb[m run prettier on ci
+[33m7db2eda[m run prettier
+[33m2034b97[m configure prettier
+[33m8dd7370[m hot content reload
+[33mb7966ff[m update features list
+[33m01d7d8e[m fix tag pages to emit to tag/index.html to override content and folder pages
+[33m83d47f7[m rename github action
+[33m76c092d[m add custom.scss
+[33m410fc9c[m quartz update and quartz sync
+[33m8e0ba45[m add link resolution prompt to quartz create
+[33mf822823[m treat _index as index
+[33ma3e4c86[m fix ci, disable strict path type checks by default
+[33m3ac6b42[m finish path refactoring, add sourcemap + better trace support
+[33m906f91f[m base path refactor, more docs
+[33m08f8e3b[m docs + various polish
+[33mb90590b[m polish
+[33mb3480bd[m fix styling for bullet points
+[33m9cbacca[m handle dates as tags
+[33m05d1ca0[m handle string tags
+[33mf7bf403[m fix path parsing
+[33m465804a[m basic docs, remove publish, add quartz create
+[33m92ca787[m fix default callout state
+[33mfe2852f[m update package
+[33m974b0da[m folder and tag descriptions, re-enable relative pathing
+[33m2a17431[m fix popover zindex
+[33m38cff2d[m more visual polish, adjust colours and spacing
+[33mab9da02[m fix indexing causing main thread freeze, various polish
+[33me0ebee5[m various polish
+[33m4c904d8[m rss + sitemap
+[33mba9f243[m tag and folder pages
+[33m24348b2[m fix: parsing wikilinks that have codeblock anchors, scroll to anchor
+[33mfd5c8d1[m basic search implementation
+[33mc4cf0dc[m local and global graph
+[33m8bfee04[m popovers
+[33mcb89cce[m basic left,right layout
+[33mb587782[m collapsible callout
+[33m6d5491f[m collapsible toc
+[33m917d579[m modern toc tweaks
+[33m9d2024b[m taglist, mermaid
+[33m2bfe90b[m add config to components
+[33m352075a[m refactor plugins to be functions instead of classes
+[33mb8c0114[m toc
+[33m3a29f4c[m add custom spa solution
+[33m59109a8[m add flamethrower router
+[33m317cce9[m generic quartz component for layout
+[33mdde36fa[m update gh actions
+[33m1cb4dad[m codeblock copy
+[33m0813f12[m fix darkmode script load
+[33m4d3579c[m darkmode scripts
+[33m89e0311[m embeds
+[33m700036e[m callouts
+[33m1406ee0[m update spinners
+[33m9ad8999[m multi-core builds
+[33m4bdc17d[m inline scripts
+[33mfcd8135[m heading linking
+[33m04eeb2d[m syntax higlighting
+[33m42d3a7d[m scss support
+[33mc1c46ad[m obsidian flavored markdown support
+[33m3636c05[m link processing
+[33m21c007e[m rendering, link resolution, asset copying
+[33mad6ce0d[m plugin integration round 2
+[33ma757521[m base setup
+[33m7b1da7a[m i18n: Update fr.toml (#313)
+[33me482fa1[m fix: graph and tooltip sometimes not showing
+[33mba7a968[m fix: padding for empty title callouts (#308)
+[33mdb27557[m fix: search highlight not showing because for trailing slash (#306)
+[33mb7c305e[m adding myself to the showcase (#301)
+[33m74fe4d6[m docs: Update link to callouts documentation (#300)
+[33md6c3159[m deps: bump hugo-obsidian
+[33maa5ab03[m docs: update to account for github changes
+[33mecba607[m deps: bump hugo-obsidian
+[33m983efab[m fix: recent notes partial sorting
+[33m10e4174[m fix: Bad UI due to head.html (#284)
+[33mbde44fa[m feat: Adding Twitter and Social image preview including description (#207)
+[33m6885651[m feat: max-width for large screens
+[33m7df2bb6[m fix: fix duplicate link click tracking
+[33m11959de[m feat: add more plausible events
+[33ma73aca8[m feat: switch from GA to Plausible for analytics
+[33m93610e2[m feat: Remove leading slash of folders in graph view (#282)
+[33m712dab5[m docs: remove broken links from showcase
+[33m77b3907[m docs: Clarify Obsidian settings (#280)
+[33m8fc6358[m feat: Added Turkish translation (#275)
+[33m24c9777[m feat: Embedding multimodal assets (#274)
+[33m7a8811a[m added the liveReloadPort as an option for docker (#272)
+[33meb2f6ae[m Fix callout behaviour inconsistent with Obsidian (closes #168) (#268)
+[33mb780085[m feat: Added Bangla translations (#266)
+[33mc5b103c[m fix: fix unicode broken tags (#261)
+[33m614a622[m refactor: General performance/style improvements (#262)
+[33mdc43737[m fix edge cases link processing (#258)
+[33mea37486[m fix: fix misspelling (#259)
+[33mc1b0eaf[m feat: Added simplified Chinese translations (#257)
+[33mce5df83[m feat: latex in search results
+[33m4cd6f7e[m fix: text highlighting
+[33m5a7936e[m fix: Replacing "internal-link broken" with link to asset (#232)
+[33m5fd7077[m feat: Added Norwegian localization (#242)
+[33m717a13a[m feat: Added italian localization in i18n/it.toml (#239)
+[33m5f3d430[m feat: add support for mermaid diagrams (#244)
+[33m66f3e24[m fix: only run docker publish on main repository
+[33me374e3a[m fix: jump to search for operand
+[33mf08a76a[m fix: External links ending in .md don't get trimmed (#236)
+[33md80f694[m fix: Semantic Search: Use Operand Beta API (#235)
+[33m120d104[m update config for search
+[33me9aa6ae[m feat: docker docs, semantic search alpha
+[33mc12af32[m feat: Dockerfile and automated container build (#230)
+[33mde2b6b9[m feat: Replace == with <mark> (#234)
+[33m7f9f588[m feat: allow enableToc to override default no TOC on a per-page basis
+[33m151b985[m docs: add Abhijeet's math-wiki to the showcase (#228)
+[33md56a580[m Added German translation (#223)
+[33m689201b[m feat: Add French translation (#221)
+[33m9b72edc[m Merge branch 'hugo' of https://github.com/jackyzha0/quartz into hugo
+[33m8704edc[m deps: bump ubuntu version (closes #218)
+[33m0a602ed[m fix euler's identity (#220)
+[33m72571a7[m feat: Add Spanish translation (#217)
+[33m3409a49[m fix: Apply monospace style to all meta in a popover (#216)
+[33m666ffeb[m Decode the heading id from split link (#214)
+[33m8ea1525[m Add SethMB Work (#203)
+[33mdd11d56[m Merge branch 'hugo' of https://github.com/jackyzha0/quartz into hugo
+[33mcd7e208[m feat: hide TOC when no headers (closes #204)
+[33m169ef44[m Adding reference projects (#196)
+[33m8e3042d[m add my showcase :  oldwinterの数字花园 (#192)
+[33m2145e92[m fix: make latex rendering size more simialr to obsidian
+[33me6c7a4e[m fix: latex rendering bugs + patch for #195
+[33mca84da5[m feat: Hide full path to file in Wikilinks by default (#195)
+[33m0d1670a[m Merge branch 'hugo' of https://github.com/jackyzha0/quartz into hugo
+[33m5c770f9[m Update Quartz version in documentation
+[33mce55eca[m Add Ukrainian translation (#191)
+[33m591c481[m[33m ([m[1;33mtag: [m[1;33mv3.3[m[33m)[m deps: bump hugo-obsidian version
+[33m83e7aec[m fix: tag list styling
+[33m25ba115[m feat: Add internationalization (i18n) support (#182)
+[33me38eaa9[m Popover preview should show relevant heading (#180)
+[33ma78926e[m feat: link previews to page-list (closes #173)
+[33m5c76d8d[m fix: make callout detection case-insensitive (closes #171)
+[33m3dcc1f1[m feat: better graph scaling (closes #170)
+[33mff77092[m style: _callouts.scss simplification (#169)
+[33m7ffc907[m fix: CJK search (closes #163)
+[33m6dd4c64[m fix: highlights being stripped in non-semantic search mode
+[33m8fc6b8e[m docs: update, re-added debounce
+[33mb10b23a[m docs: add documentation for Operand Search, remove debounce
+[33m23380d0[m fix: title not being selected properly, bump hugo-obsidian for uri fix
+[33mdd04730[m deps: bump hugo-obsidian to fix bug of writing to non-existent directory during build
+[33m54a8fd4[m deps: bump hugo-obsidian to properly copy linkmap
+[33m5ef9aad[m feat: add support for semantic search using operand
+[33m14b8910[m refactor: move search utils to util.js
+[33m93d039f[m deps: bump hugo-obsidian version
+[33m234c707[m docs: improve scss structure and admonition styling, update docs
+[33m728d852[m Support Admonition callouts (#166) (closes #88)
+[33me142f37[m Merge branch 'hugo' of https://github.com/jackyzha0/quartz into hugo
+[33md747b19[m docs: copy edits
+[33m1f3da4b[m feat: edit the clipboard button to change border colour on success (#162)
+[33me15e391[m fix: give precedence to date created over last modified if defined (#101)
+[33mdff5ae0[m style: improve header anchor styling
+[33mb2555ce[m feat: add description section to section/term/taxonomies, fix header margin
+[33m7ccff2c[m fix: styling on page-list for smaller screens
+[33me0b6606[m fix: make section-li scss more generic
+[33md7a42a2[m feat: improve styling for lists, fix anchor offset
+[33m422b6cc[m feat: css typography improvements
+[33m22c8981[m feat: css refactor for easy font change
+[33m8b2a82a[m fix: change / to use base url
+[33m81af8c4[m fix: remove console log (#159)
+[33mffe2268[m feat: use floating-ui for better popover positioning
+[33mc1b8fe1[m feat: restyle search icon
+[33mb7a619b[m fix: tabsize not being respected
+[33m74993d1[m docs + fix: broken partial and description of enableGitHubEdit
+[33m25a4d3b[m Add GitHub "edit" button (#157)
+[33maaf31f4[m fix: copy code block logic for non code pages
+[33mf54df35[m Copy to clipboard feature for code block (#152)
+[33m015ed4c[m Fix `width: auto` for SPA routing (#156)
+[33ma8137ed[m fix: adjust weird colours for err highlighting
+[33meda3703[m fix: image scaling for md-style links (closes #155)
+[33md3e20b8[m Added optional rendering of code block titles (#148)
+[33m8d7a7b7[m fix: non-SPA fn defs (closes #154)
+[33m0896814[m docs: remove test image from hosting
+[33m8b2fba8[m feat: image scaling (closes #131)
+[33me884f49[m fix: anchor formatting (closes #141)
+[33m2b0482a[m docs: fix page weight
+[33m8a100ed[m docs: polish and update
+[33m200c605[m feat: enable raw html by default (fixes #143)
+[33mf2078ee[m fix: prefix images with base url for non-root quartz
+[33m916c51c[m Merge pull request #150 from aidenybai/bump-million
+[33m67a7ba3[m Bump million to 1.11.3
+[33m7294196[m Merge pull request #146 from geoffreygarrett/hugo
+[33mb732293[m fix(head.html): Adds robustness to `config.yaml` favicon definitions
+[33m7070a19[m docs(config.md): Fixed multi-favicon examples and general favicon explanation throughout
+[33m997937a[m docs(config.md): Added short explainer on favicons
+[33ma334b45[m docs(content/notes/config.md): Adds documentation for the new favicon support
+[33m473ea2c[m feat(layouts/partials/head.html): Adds general favicon support with dict and string input format
+[33m34b0353[m Merge pull request #140 from DhammaCharts/hugo
+[33m52a185f[m change enableGlobalGraph to false
+[33m69c74ca[m minor adjustment
+[33mab80924[m Update layouts/partials/head.html
+[33m84c75d0[m Merge branch 'hugo' into hugo
+[33mdbd4fb7[m Merge pull request #139 from aidenybai/prerender-latex
+[33ma275123[m better font behaviour
+[33mc88f31c[m change to object destructuring for drawGraph() arguments
+[33md261655[m remove unnecessary ternary
+[33mc0800a8[m change baseURL back to original
+[33mac0dd50[m uncomment window.Million
+[33me809896[m increase scale
+[33m19606ba[m add www.
+[33m1e237ef[m change baseURL
+[33m5a1fbc9[m Improve graph display, options and ability to have a global graph on the home page, local graphs on subpage.
+[33ma1293f8[m Prerender latex
+[33m84c6e1e[m Merge pull request #138 from aidenybai/add-footer-config
+[33m8673a7b[m Add option to toggle footer
+[33m775a1b2[m Merge pull request #137 from aidenybai/fix-non-spa-routing
+[33m006b74e[m Fix formatting
+[33m8aba612[m Fix non-spa fallback
+[33mcbc2bea[m Merge pull request #136 from aidenybai/custom-progress-bar-color
+[33mae240ff[m Remove redundant CSS rule
+[33mba586ad[m Merge pull request #135 from aidenybai/bump-million
+[33m159deab[m Bump to 1.9.6
+[33m44984cd[m Add support for progress bar
+[33m683cb53[m Bump million to 1.9.5
+[33m232bd2f[m Merge pull request #134 from aidenybai/add-prefetching-within-graph
+[33me0fd957[m Bump million to 1.9.4
+[33mbc32bbe[m Bump milliomn to 1.9.3
+[33mefb6c78[m Add prefetch to graph
+[33mbd316d8[m Bump million to 1.9.2
+[33m0293c12[m feat: recent posts section/partial
+[33m0439c16[m fix: js not executing if spa disabled
+[33m0b6711c[m fix: tag boxes overlapping for content with many tags (closes #130)
+[33med9a8ef[m fix inline link highlighting, safer latex render
+[33me302f6c[m fix: more generic style to match bad nesting generated by popover interp
+[33mb21b27d[m fix: clean wikilinks and render latex in popover
+[33m364aee3[m fix: merge conf
+[33mcea0f3e[m feat: contextual backlinks (closes #106)
+[33m8b855b5[m Merge pull request #125 from aidenybai/fix-latex
+[33m7b3696b[m Remove pnpm debug log
+[33mb4ff12c[m Fix latex
+[33mb67a389[m Merge pull request #124 from aidenybai/hugo
+[33m2b5c03c[m Remove redundant URL construction
+[33maaed5dc[m Support /path root sites
+[33m1a5d158[m Support active node with other data at end of url
+[33ma099744[m Merge pull request #123 from aidenybai/fix-popover
+[33m9fc7160[m Merge
+[33md38f9be[m Rename API and generalize router API
+[33m771ebd8[m Merge
+[33me4cc625[m Add future note about init function
+[33m3789df8[m Merge branch 'hugo' into fix-popover
+[33m0374262[m Merge pull request #122 from aidenybai/fix-active-graph-node
+[33me646cdb[m Use explicit regex for trailing slash trim
+[33m8d092a3[m Remove unnecessary 'url' argument in graph.html
+[33m32c79a5[m Remove unnecessary 'url' argument in graph.html
+[33m3c660dd[m Remove unnecessary 'url' param in drawGraph
+[33m4cca3c1[m Peg router version
+[33m9d3bbd6[m Fix active node on graph
+[33m9c71f07[m Enable config for testing
+[33m77485b7[m Fix popover
+[33m6e6dd4c[m fix: trim trailing slash when calculating popover
+[33m81fe2d2[m Merge branch 'hugo' of https://github.com/jackyzha0/quartz into hugo
+[33m24d08d5[m cfg: make SPA optional
+[33m321e19d[m Merge pull request #121 from benbohmer/patch-1
+[33m12d3361[m Merge pull request #120 from straightupjac/fix/github-info
+[33m97607c3[m fix: keep / at end of URL to avoid redirects
+[33m4197ad4[m fix github info
+[33mfc89ff2[m fix: broken semi and graph min-height
+[33me9a33c0[m fmt: remove semis for good
+[33mb0e15e0[m Merge pull request #118 from aidenybai/add-router
+[33m9ba0a4b[m fmt: remove semis :)
+[33mf1b85fb[m Fix clarification comment
+[33m66304da[m Merge pull request #119 from aidenybai/add-prettier
+[33m40d2167[m Expand template
+[33m5c602ab[m Add clarification comments
+[33m87144fc[m Use semi: false for prettier config
+[33ma9523dd[m Add prettier config
+[33mbcb166c[m Add router
+[33m416dc0b[m fix: add update for local hugo-obsidian on make update
+[33mb8a660e[m feat: copyable header anchors (fixes #86)
+[33mec86cca[m Merge branch 'hugo' of https://github.com/jackyzha0/quartz into hugo
+[33m87b5a7a[m feat: show graph titles on zoom (fixes #92)
+[33mc8d390d[m fix: always hide popover on mobile (fixes #104)
+[33m3c7ece5[m fix: append trailing slash, fixes #111
+[33mf7027e7[m Merge pull request #108 from exu3/patch-1
+[33m0cfd93c[m Fix another typo
+[33m3f8c473[m Fix typo: recomment -> recommend
+[33mf05ff5e[m fix: add dropshadow to popover, cleanup animation
+[33m12ed972[m fix: popover selection wrongly including line breaks
+[33m887d4d4[m deps: bump hugo -> v0.96.0
+[33mf9c7cdf[m fix: check for src before attempting to add popover
+[33m2d55b6a[m fix: missing whitespace chomp in link render hook
+[33md5884ae[m fix: wikilink patch not applying to transformed text like apostrophes
+[33m66eaa44[m fix: wikilink image relURL for images with spaces
+[33m0ddc48a[m fix: wikilink-like text in code fences #95, #97
+[33mcd19159[m feat: wikilink img support
+[33m7808c66[m fix: align footer links
+[33ma7abc6a[m docs: make update command and clarify update steps/potential danger
+[33m9509a64[m Merge branch 'hugo' of https://github.com/jackyzha0/quartz into hugo
+[33m53242b1[m add update target to Makefile
+[33m3ce6944[m Merge pull request #93 from meleu/patch-3
+[33m3cec4fd[m update screenshot
+[33me245505[m feat: hide toc for short notes
+[33mfc4b9de[m Merge pull request #94 from meleu/patch-4
+[33m27c4761[m link to home goes to baseURL
+[33m3583265[m docs: warn about possible lost of customization
+[33m3781b67[m Merge pull request #91 from meleu/patch-2
+[33m671fe05[m padding and border-radius matching bottom cards
+[33m1613511[m Merge branch 'hugo' of https://github.com/jackyzha0/quartz into hugo
+[33macab488[m re-add obsidian file
+[33mff91dcd[m Merge branch 'jackyzha0:hugo' into patch-2
+[33ma287d11[m add a collapsible ToC
+[33m575288e[m Merge pull request #88 from meleu/patch-2
+[33m25b5ac4[m fix: favicon not showing on non-root domain #89
+[33m1d9c0e4[m use "enableToc: false"
+[33me62d512[m disable ToC if frontmatter has "enableToc: false"
+[33m8f15c5f[m disable ToC if enableToc: false
+[33mefeaf9b[m Merge branch 'hugo' of https://github.com/jackyzha0/quartz into hugo
+[33m91c4e3f[m fix: multiline code block #87
+[33m22f1171[m Merge pull request #85 from meleu/patch-1
+[33m5c3ef88[m duplicated file
+[33m16b177c[m README update
+[33m14c6181[m[33m ([m[1;33mtag: [m[1;33mv3.2[m[33m)[m bump hugo version v0.82 -> v0.92.2
+[33me6e04c0[m fix latex misrendering
+[33m146e975[m bump hugo obsidian, fix backlinks for subpathed quartz, update homepage
+[33mc117e38[m feat: wikilinks implementation
+[33m4fd9832[m fix: cjk support + demo page
+[33mcc86136[m feat: basic latex support
+[33m8e083d4[m Merge pull request #83 from meleu/patch-2
+[33m03b574b[m cleanup
+[33ma469653[m separate contact links semantically
+[33mc51573e[m feat: grey out broken links
+[33m902d0f2[m Merge branch 'hugo' of https://github.com/jackyzha0/quartz into hugo
+[33m1ddd15a[m fix: non-unicode character in popover and search #67, #68
+[33m16f8cd7[m separate links with &ZeroWidthSpace;
+[33m9c5eccc[m Merge pull request #82 from meleu/patch-1
+[33me3cd531[m fix custom.scss path
+[33m3674df4[m fix pagination styling
+[33m9e8c558[m Merge branch 'hugo' of https://github.com/jackyzha0/quartz into hugo
+[33m6605b13[m more troubleshooting, backlinks reference private page fix
+[33m6edc979[m Merge pull request #71 from siyangsun/patch-1
+[33mfc43922[m add to showcase and fix link to file
+[33m54a68e6[m patch image
+[33ma6ab2f9[m add update
+[33mfda481f[m fix: bump hugo-obsidian version to account for contentIndex paths on windows
+[33m94e987d[m feat: better titles for empty pages #61
+[33me981c76[m Merge pull request #65 from claudio4/fix-text
+[33mf70128a[m Prevent overflow of long links and words
+[33m651bfc5[m Merge pull request #62 from claudio4/hugo
+[33m6079420[m Merge branch 'jackyzha0-hugo' into hugo
+[33mb96c60e[m Merge branch 'hugo' of https://github.com/jackyzha0/quartz into jackyzha0-hugo
+[33m978d5ca[m Format JS
+[33m9072709[m fix: hide popover on mobile to prevent overflow
+[33m6f9283e[m Update makefile and docs
+[33m0fad557[m Add .gitkeep to assets/indices
+[33mdc9b421[m Remove unnecessary scrollbars
+[33m8779e72[m Add attribute property to scripts from jsdelivr
+[33m7f65233[m Move popover to the end of the page
+[33m7e0f2e4[m Fix fetchData
+[33m1313bd9[m Move css and js to appropriate files
+[33m5234fae[m fix backlinks not using baseurl
+[33m0ee0855[m bump hugo-obsidian to support root
+[33me06e341[m fix: explicitly set root as current directory to fix ignore files
+[33m73e526a[m add screenshot to readme
+[33mcdc4f1a[m fix: relink search button (move outside content load listener)
+[33m714b4fc[m fix links being broken for pages with spaces
+[33m9c04ca0[m rtl docs
+[33m388a2bf[m docs updates
+[33mf192f9a[m fix #54: root all image urls
+[33m3b3e6ec[m fix relative pathing for dynamic fetch
+[33m8e85e27[m change output to static instead of data
+[33mfcd5d28[m feat: dynamically fetch indices
+[33m4587b13[m feat: add rtl support as part of #47
+[33mfb9ea8d[m Merge branch 'hugo' of https://github.com/jackyzha0/quartz into hugo
+[33mc520db4[m fix: #50, change css load order
+[33m10f9843[m Merge pull request #51 from brandonkboswell/patch-1
+[33m0dc51ff[m Merge branch 'hugo' of https://github.com/jackyzha0/quartz into hugo
+[33mc35086c[m visibility fix
+[33m31297b7[m Added to the Showcase
+[33mfa3bc3d[m Merge pull request #48 from earnestma/earne/configurable-page-toc
+[33m41c443d[m Add disableToc parameter to not show TOC on a page
+[33ma271fb9[m Merge pull request #46 from adube/patch-1
+[33m49cdca5[m Specify Hugo requires extended Sass/SCSS version
+[33m9645f00[m link fixing
+[33m57ebf4c[m underscore fix, fix relative path being weird for graph
+[33m54e3e07[m fix popover regex
+[33md46e223[m revert baseurl fix
+[33m6f9a29c[m various path fixes
+[33m532bc61[m set relativeUrls to true
+[33m99aea48[m docs update
+[33m4a3766d[m[33m ([m[1;33mtag: [m[1;33mv3[m[33m)[m update featurelist
+[33m4e63997[m fix copy selection
+[33me49a1ac[m made link preview optional
+[33m4a3c4fd[m popover implementation
+[33m2b432d7[m fix flex gap
+[33m7507fd2[m fix search styling
+[33mca886e4[m fix render link for apostrophe
+[33m3722e60[m bump hugo-obsidian
+[33mefeaf0f[m add pagination to section, fix graph linking
+[33m1a8cdaa[m remove console.log
+[33me4caa0d[m add taxonomy and term lists
+[33ma45856d[m fix last modified not working for capitalized pages
+[33mdbe9b33[m fix capitalization
+[33m000fcdb[m fix casing
+[33m612c44d[m modify obsidian
+[33me1911a5[m enable last modified info
+[33mb4e2697[m content section
+[33m094ab9d[m dedupe backlinks
+[33m3959234[m add graph depth config
+[33m165d338[m base tags
+[33m6fbfa71[m various font and colour fixes
+[33m43837f9[m add makefile, fix link padding, test capitalization
+[33m2ba01c8[m fix untitled #36
+[33m114b7ca[m Merge branch 'hugo' of https://github.com/jackyzha0/quartz into hugo
+[33m5bd5642[m add toLowerCase to id
+[33m48d0181[m fix config setting, fix font size for h1 in article
+[33m3a98c8b[m actually display site title
+[33m69c86e4[m update subdomain docs
+[33m56d2382[m fix relative link styling, change graph and backlinks to refer to name rather than path
+[33m091be70[m Create CODE_OF_CONDUCT.md
+[33m09b5522[m Update issue templates
+[33mb9d7ada[m Create FUNDING.yml
+[33mafeb182[m Merge pull request #28 from juaoose/overflow
+[33mbc90955[m remove horizontal scrollbar
+[33mc64322a[m remove bad wikilink
+[33m48eb9eb[m better search, fix spacing support, bump hugo-obsidian
+[33m82ba843[m search styling
+[33m8ca31df[m search patch
+[33mdf23b99[m more search improvements
+[33m6005a2e[m css fixes
+[33mde940d6[m update graph redir
+[33m806d11f[m Merge pull request #23 from bur3ku/hugo
+[33m1fc2da4[m Merge branch 'hugo' of https://github.com/bur3ku/quartz into hugo
+[33m9292de6[m remove unnecessary regex, use encodeuri for label instead of replace
+[33m2477662[m Merge branch 'hugo' into hugo
+[33ma14d06a[m fix conflict fix
+[33me0535db[m fix conflict
+[33m8eca1e6[m change %20 in node labels to whitespace, change %20 in node hrefs to hyphen
+[33m03bb3a3[m normalize search styling
+[33mf7b89db[m search fix
+[33m1835b97[m better homepage
+[33mf56642f[m forgot string lol
+[33m22a9c0d[m docs updates, add search to main page, fix redir bug
+[33mc1c061f[m bump docs
+[33m6fd1906[m search improvements
+[33m299533a[m bump hugo-obsidian version
+[33me1366ec[m fix accidental code
+[33m776ef08[m fix last commit
+[33mfc00ad5[m fix for notes with spaces not linking properly
+[33m228f96e[m Merge pull request #14 from juaoose/hugo
+[33m071984a[m fix product typo in external hosting section
+[33mae2f7ef[m update showcase
+[33mcb38667[m Merge branch 'hugo' of https://github.com/jackyzha0/quartz into hugo
+[33m1c85127[m add search support
+[33ma0ff5ec[m fix language highlighting
+[33m27c33f8[m Merge pull request #9 from brechtcs/template
+[33mf9920f6[m Execute darkmode script before first render
+[33m8850976[m Merge pull request #8 from SlRvb/patch-1
+[33mbb6a1e8[m Add SlRvb Site to Showcase
+[33m9b427fa[m backlinks fix
+[33m618dd70[m add to showcase
+[33mccec4b3[m config fixes
+[33m2563afe[m doc bump
+[33md197e19[m fix 404 styling
+[33m875d3f8[m improve docs
+[33mc0ee39a[m more desc
+[33mb841471[m add pushing changes docs
+[33m35fa8d8[m better mobile support
+[33mdf425a8[m replace readme
+[33m233e1e8[m wording update
+[33mef396d5[m bump ga ver
+[33m69e4288[m flesh out docs
+[33m92d18b1[m more docs + link fixing
+[33m6896cb0[m proper backlink and graph display in footer
+[33m672a641[m fix darkmode
+[33m8989324[m bump ga version
+[33mea69050[m add base pages
+[33mc01138a[m add base structure
