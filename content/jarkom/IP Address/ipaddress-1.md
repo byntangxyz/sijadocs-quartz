@@ -1,5 +1,5 @@
 ---
-title: IP Address
+title: 1.1. IP Address
 date: 2025-05-21
 ---
 ## Selamat datang pada materi IP Address
@@ -34,13 +34,32 @@ IP Address berfungsi seperti alamat rumah: jika ingin mengirim data (seperti pak
 
         Contoh rentang:
 
-        Class A: 10.0.0.0 – 10.255.255.255
+    - ClassFull
 
-        Class B: 172.16.0.0 – 172.31.255.255
+            Class A: 10.0.0.0 – 10.255.255.255
+            Subnet mask default: 255.0.0.0 (/8)
 
-        Class C: 192.168.0.0 – 192.168.255.255
+            Class B: 172.16.0.0 – 172.31.255.255
+            Subnet mask default: 255.255.0.0 (/16)
 
-3. Berdasarkan Penetapan IP
+            Class C: 192.168.0.0 – 192.168.255.255
+            Subnet mask default: 255.255.255.0 (/24)
+
+    - ClassLess
+
+        | CIDR | Subnet Mask     | Jumlah Subnet | Host per Subnet |
+        | ---- | --------------- | ------------- | --------------- |
+        | /24  | 255.255.255.0   | 1             | 254             |
+        | /25  | 255.255.255.128 | 2             | 126             |
+        | /26  | 255.255.255.192 | 4             | 62              |
+        | /27  | 255.255.255.224 | 8             | 30              |
+        | /28  | 255.255.255.240 | 16            | 14              |
+        | /29  | 255.255.255.248 | 32            | 6               |
+        | /30  | 255.255.255.252 | 64            | 2               |
+
+        
+
+3. **Berdasarkan Penetapan IP**
     - Static IP Address
     Alamat IP tetap yang ditetapkan secara manual
     Cocok digunakan untuk server atau perangkat yang memerlukan koneksi stabil
@@ -51,12 +70,7 @@ IP Address berfungsi seperti alamat rumah: jika ingin mengirim data (seperti pak
 
     Umumnya digunakan untuk perangkat pengguna umum seperti laptop dan smartphone
 >
-## Subnetting
-
-<iframe width="750" height="350" 
-  src="https://www.youtube.com/embed/l5vLxYrZAgA?start=239" 
-  title="OSI Layers" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
+>
+>[!tip] Materi Berikutnya!
+>
+>Lanjut ke [Subnetting](ipaddress-2.md)
