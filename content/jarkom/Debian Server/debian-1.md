@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: 1.1. Installation
 date: 2025-5-28
 ---
 1.  
@@ -92,3 +92,4 @@ date: 2025-5-28
 ```
 28. Setelah mengganti, jangan lupa ```apt update```
 <img src="dokumentasi25.png" alt="dokumentasi25" width="650" height="550">
+
