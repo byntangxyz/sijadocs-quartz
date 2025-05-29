@@ -86,3 +86,7 @@ date: 2025-05-19
 - **Crosstalk**
     - Crosstalk sering terjadi pada kabel yang terlalu dekat satu sama lain atau kabel yang tidak terpasang dengan benar.
 
+>
+>[!tip] Materi Berikutnya!
+>
+>Lanjut ke [IP Address](ipaddress-1.md)

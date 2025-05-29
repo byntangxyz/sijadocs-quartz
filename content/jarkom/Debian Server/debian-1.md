@@ -93,3 +93,7 @@ date: 2025-5-28
 28. Setelah mengganti, jangan lupa ```apt update```
 <img src="dokumentasi25.png" alt="dokumentasi25" width="650" height="550">
 
+>
+>[!tip] Materi Berikutnya!
+>
+>Lanjut ke [Command Dasar dan Permission](debian-2.md)

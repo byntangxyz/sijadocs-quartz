@@ -222,3 +222,8 @@ cat /etc/group
 ### Hasil
 
 <img src="dokumentasi35.png" alt="dokumentasi35" width="650" height="400">
+
+>
+>[!tip] Materi Berikutnya!
+>
+>Lanjut ke [Mikrotik](mikrotik-1.md)
