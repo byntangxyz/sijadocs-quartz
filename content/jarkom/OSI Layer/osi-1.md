@@ -87,3 +87,7 @@ Bayangkan kamu mengirim paket lewat kurir:
 - Barcode untuk dicek apakah rusak atau tidak
 - Kurir (Physical Layer) hanya kirim kotaknya (bit-bit). Tapi di dalamnya, semua informasi penting sudah dibungkus oleh
     Data Link Layer.
+>
+>[!tip] Materi Berikutnya!
+>
+>Lanjut ke [Debian Server](debian-1.md)
