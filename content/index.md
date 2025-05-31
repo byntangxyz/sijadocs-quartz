@@ -11,7 +11,7 @@ Beberapa materi yang telah di pelajari di kelas 10 jurusan SIJA antara lain:
   1. [Pengenalan](/pengenalan-1.md)
   2. [IP Address](/ipaddress-1.md)
   3. [OSI Layer](/osi-1.md)
-  4. [Debian Server](/debian-1.md) (_Dalam Proses_)
+  4. [Debian Server](/debian-1.md)
   5. [Mikrotik](/mikrotik-1.md) (_Dalam Prroses_)
 - [DDK 2 - Sistem Komputer](/siskom) (_Dalam Proses_)
   1. [K3LH Sistem Komputer]()

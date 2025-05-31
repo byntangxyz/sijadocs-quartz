@@ -226,4 +226,5 @@ cat /etc/group
 >
 >[!tip] Materi Berikutnya!
 >
->Lanjut ke [Mikrotik](mikrotik-1.md)
+>Lanjut ke [Debian Server](debian-3.md)
+
