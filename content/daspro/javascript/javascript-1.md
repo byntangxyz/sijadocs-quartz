@@ -1,4 +1,4 @@
-p---
+---
 title: 1. Mengenal Javascript
 date: 2025-05-17
 ---

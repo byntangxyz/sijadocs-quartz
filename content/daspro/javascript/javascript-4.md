@@ -122,7 +122,7 @@ console.log(sekarang.getMonth()) // Bulan (0 = Januari)
 let nama = "Tono"
 console.log(nama.length) // 4
 console.log(nama.toUpperCase()) // "TONO"
-console.log(nama.includes("i")) // true
+console.log(nama.includes("o")) // true
 ```
 
 ### 4. Array — Objek untuk daftar data
