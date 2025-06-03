@@ -14,10 +14,10 @@ Beberapa materi yang telah di pelajari di kelas 10 jurusan SIJA antara lain:
   4. [Debian Server](/debian-1.md)
   5. [Mikrotik](/mikrotik-1.md) (_Dalam Prroses_)
 - [DDK 2 - Sistem Komputer](/siskom) (_Dalam Proses_)
-  1. [K3LH Sistem Komputer]()
+  1. [K3LH Sistem Komputer](/siskom/k3lh-siskom.md)
   2. [Merakit Komputer](/siskom/merakit.md)
   3. [Instalasi Operasi Sistem]()
-  4. [Perawatan Hardware dan Software]()
+  4. [Perawatan Hardware dan Software](/siskom/perawatan-pemeliharaan.md)
 - [DDK 3 - Dasar Pemrograman](/daspro)
   - Javascript
     1. [Mengenal Javascript](/daspro/javascript/javascript-1.md)
@@ -42,5 +42,6 @@ Beberapa materi yang telah di pelajari di kelas 10 jurusan SIJA antara lain:
 Website ini dibuat untuk bahan belajar dan dibuat dengan menggunakan [Quartz v4.5](https://quartz.jzhao.xyz) sebagai framework Static Site Generator (SSG).
 
 Contributor:
+
 - [Bintang](https://github.com/byntangxyz)
 - [Isa Silva](https://github.com/cmose-source)
